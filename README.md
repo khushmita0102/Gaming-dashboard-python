@@ -187,34 +187,6 @@ The dashboard will open automatically at `http://localhost:8501`.
 
 ---
 
-## Viva Questions & Answers
-
-**Q1. What is Streamlit and why was it chosen?**  
-Streamlit is an open-source Python library that converts Python scripts into interactive web apps with minimal code. It was chosen because it requires no HTML/CSS/JavaScript knowledge, supports reactive widgets, and is widely used for data science prototyping and dashboards.
-
-**Q2. What is `@st.cache_data` and why is it important?**  
-`@st.cache_data` caches the return value of a function after its first call. On subsequent calls with the same arguments Streamlit returns the cached result without re-executing the function. This is critical here because loading and cleaning a CSV on every user interaction would be slow and wasteful.
-
-**Q3. How does filtering work in this dashboard?**  
-The `apply_filters()` function in `data_processing.py` receives the cleaned DataFrame and the user's sidebar selections (genres, platforms, year range, rating range). It chains Pandas boolean masks and returns a new filtered DataFrame. All charts and KPIs receive this filtered frame, so every element updates simultaneously.
-
-**Q4. What is Plotly Express and how does it differ from Plotly Graph Objects?**  
-Plotly Express (`px`) is a high-level API that creates common chart types with a single function call. Plotly Graph Objects (`go`) is the lower-level API that provides full control over every visual element. This project uses `px` for most charts and `go` for the correlation heatmap where fine-grained control over the matrix masking was needed.
-
-**Q5. What data cleaning steps were applied and why?**  
-Seven steps were applied: column renaming for consistency; whitespace stripping to avoid mismatches; duplicate removal to avoid inflated counts; type coercion for numeric columns with invalid entries; rating clipping to remove values outside [0,10]; text standardisation to Title Case so groupby works correctly; and replacement of literal "nan" strings with proper NaN values.
-
-**Q6. What does correlation analysis tell us about this dataset?**  
-The Pearson correlation heatmap shows the linear relationship between `release_year` and `user_rating`. A value near zero confirms there is no strong linear trend between when a game was released and how users rated it, meaning newer games are not necessarily rated higher or lower than older ones.
-
-**Q7. How does the dashboard handle empty filter results?**  
-After `apply_filters()` returns the filtered DataFrame, `app.py` immediately checks `if filtered_df.empty` and calls `st.warning()` followed by `st.stop()`. This prevents any chart function from receiving an empty frame and avoids division-by-zero or index errors.
-
-**Q8. What is the difference between `pd.cut()` and `pd.qcut()`?**  
-`pd.cut()` divides data into bins of equal width (fixed boundary points). `pd.qcut()` divides data into bins with equal number of records (quantile-based). This project uses `pd.cut()` for the rating buckets page because the fixed ranges (0–2, 2–4, …) are more intuitive for a 0–10 rating scale.
-
-**Q9. Why are vectorised Pandas operations preferred over Python loops?**  
-Pandas operations like `.str.strip()`, `.groupby()`, and boolean masking run on the underlying NumPy arrays in compiled C/Cython code, which is orders of magnitude faster than a Python `for` loop iterating row by row. For a dataset with thousands of records this difference is very noticeable.
 
 **Q10. How is session state used in the sidebar?**  
 `st.session_state` stores the current filter values between Streamlit re-runs. The Reset Filters button calls a function that writes the original all-selected defaults back into session state keys and then calls `st.rerun()` to re-render the page with those defaults, effectively resetting every filter simultaneously.
