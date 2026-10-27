@@ -1,0 +1,2318 @@
+Game Name,Genre,Platform,Release Year,User Rating
+Sekiro: Shadows Die Twice,Adventure,PC,2006,3.09
+Sekiro: Shadows Die Twice,Adventure,Mobile,2019,1.24
+Sekiro: Shadows Die Twice,Action,Mobile,2014,6.3
+Sekiro: Shadows Die Twice,Action,Nintendo Switch,2000,7.82
+Sekiro: Shadows Die Twice,Action,PC,2005,7.28
+Sekiro: Shadows Die Twice,Survival,Xbox,2003,1.83
+Sekiro: Shadows Die Twice,Survival,PlayStation,2003,4.23
+Sekiro: Shadows Die Twice,Survival,PC,2011,6.43
+Sekiro: Shadows Die Twice,Survival,Nintendo Switch,2001,7.56
+Sekiro: Shadows Die Twice,Racing,Nintendo Switch,2017,3.64
+Sekiro: Shadows Die Twice,Racing,PC,2020,6.56
+Sekiro: Shadows Die Twice,Puzzle,Mobile,2001,6.94
+Sekiro: Shadows Die Twice,Puzzle,PlayStation,2009,9.86
+Sekiro: Shadows Die Twice,Puzzle,Xbox,2007,8.79
+Sekiro: Shadows Die Twice,Puzzle,PC,2012,3.5
+Sekiro: Shadows Die Twice,Stealth,PlayStation,2021,3.4
+Sekiro: Shadows Die Twice,Stealth,Xbox,2021,6.83
+Sekiro: Shadows Die Twice,Stealth,Mobile,2019,6.71
+Sekiro: Shadows Die Twice,Stealth,PC,2017,7.55
+Sekiro: Shadows Die Twice,Horror,Nintendo Switch,2020,7.19
+Sekiro: Shadows Die Twice,Horror,Mobile,2007,7.15
+Sekiro: Shadows Die Twice,Horror,PlayStation,2001,3.06
+Sekiro: Shadows Die Twice,Role-playing,Xbox,2008,1.6
+Sekiro: Shadows Die Twice,Role-playing,Nintendo Switch,2018,8.88
+Sekiro: Shadows Die Twice,Fighting,PlayStation,2004,3.38
+Sekiro: Shadows Die Twice,Fighting,Nintendo Switch,2007,7.7
+Sekiro: Shadows Die Twice,Fighting,Mobile,2017,3.36
+Sekiro: Shadows Die Twice,Fighting,Xbox,2018,4.85
+Sekiro: Shadows Die Twice,Strategy,Xbox,2001,8.74
+Sekiro: Shadows Die Twice,Strategy,PlayStation,2004,6.64
+Sekiro: Shadows Die Twice,Strategy,PC,2021,4.8
+Sekiro: Shadows Die Twice,Strategy,Nintendo Switch,2002,4.46
+Sekiro: Shadows Die Twice,Strategy,Mobile,2019,9.96
+Sekiro: Shadows Die Twice,Shooter,Mobile,2021,8.95
+Sekiro: Shadows Die Twice,Shooter,PC,2008,7.91
+Sekiro: Shadows Die Twice,Shooter,Xbox,2010,2.0
+Sekiro: Shadows Die Twice,Shooter,Nintendo Switch,2013,2.42
+Sekiro: Shadows Die Twice,Simulation,Xbox,2016,9.2
+Sekiro: Shadows Die Twice,Simulation,PlayStation,2020,3.68
+Sekiro: Shadows Die Twice,Platformer,PlayStation,2017,9.57
+Sekiro: Shadows Die Twice,Platformer,Xbox,2016,9.26
+Sekiro: Shadows Die Twice,Platformer,PC,2019,3.91
+Control,Adventure,PC,2008,5.74
+Control,Adventure,PlayStation,2019,4.8
+Control,Adventure,Mobile,2006,9.35
+Control,Adventure,Nintendo Switch,2023,7.2
+Control,Adventure,Xbox,2022,3.8
+Control,Role-playing,Nintendo Switch,2007,1.58
+Control,Role-playing,Mobile,2000,6.29
+Control,Role-playing,PC,2007,6.29
+Control,Role-playing,Xbox,2000,1.64
+Control,Racing,PlayStation,2001,8.73
+Control,Racing,PC,2002,5.62
+Control,Puzzle,Nintendo Switch,2023,9.41
+Control,Puzzle,PlayStation,2018,6.18
+Control,Puzzle,Xbox,2007,8.05
+Control,Puzzle,PC,2013,2.71
+Control,Action,Nintendo Switch,2013,4.7
+Control,Action,Xbox,2023,1.49
+Control,Strategy,PC,2023,4.05
+Control,Strategy,Nintendo Switch,2003,3.24
+Control,Platformer,Mobile,2013,2.65
+Control,Platformer,Nintendo Switch,2014,3.25
+Control,Platformer,PC,2002,4.98
+Control,Stealth,PC,2002,9.33
+Control,Stealth,Mobile,2007,2.5
+Among Us,Simulation,Mobile,2006,9.71
+Among Us,Simulation,Nintendo Switch,2018,7.61
+Among Us,Simulation,PC,2001,7.72
+Among Us,Simulation,Xbox,2001,1.45
+Among Us,Simulation,PlayStation,2015,5.52
+Among Us,Puzzle,PC,2002,6.35
+Among Us,Puzzle,Mobile,2021,8.75
+Among Us,Puzzle,Nintendo Switch,2012,2.08
+Among Us,Shooter,Mobile,2002,4.77
+Among Us,Shooter,PC,2018,6.08
+Among Us,Shooter,Xbox,2010,9.4
+Among Us,Action,Xbox,2012,2.18
+Among Us,Action,PlayStation,2020,3.7
+Among Us,Action,Nintendo Switch,2010,9.35
+Among Us,Horror,PC,2019,9.98
+Among Us,Horror,Nintendo Switch,2003,1.66
+Among Us,Survival,Mobile,2011,8.92
+Among Us,Survival,Xbox,2007,4.32
+Among Us,Survival,PC,2005,4.94
+Among Us,Strategy,Mobile,2021,1.93
+Among Us,Strategy,PC,2004,3.38
+Among Us,Strategy,Xbox,2003,7.67
+Among Us,Strategy,PlayStation,2004,3.45
+Among Us,Fighting,Xbox,2020,8.67
+Among Us,Fighting,PlayStation,2016,5.39
+Among Us,Fighting,Mobile,2001,1.83
+Among Us,Stealth,Xbox,2020,9.81
+Among Us,Stealth,PC,2005,7.66
+Among Us,Stealth,Nintendo Switch,2017,7.34
+Among Us,Stealth,PlayStation,2017,1.09
+Among Us,Stealth,Mobile,2002,9.5
+Among Us,Sports,Mobile,2018,5.97
+Among Us,Sports,PC,2013,2.15
+Among Us,Sports,PlayStation,2009,4.28
+Among Us,Role-playing,Xbox,2021,3.24
+Among Us,Role-playing,PlayStation,2003,4.18
+Call of Duty: Modern Warfare,Platformer,Xbox,2003,4.44
+Call of Duty: Modern Warfare,Platformer,PlayStation,2001,8.72
+Call of Duty: Modern Warfare,Platformer,Mobile,2007,2.79
+Call of Duty: Modern Warfare,Shooter,Xbox,2021,2.74
+Call of Duty: Modern Warfare,Shooter,Mobile,2010,3.5
+Call of Duty: Modern Warfare,Shooter,PC,2002,9.69
+Call of Duty: Modern Warfare,Shooter,Nintendo Switch,2008,4.16
+Call of Duty: Modern Warfare,Shooter,PlayStation,2016,4.59
+Call of Duty: Modern Warfare,Stealth,PC,2018,9.65
+Call of Duty: Modern Warfare,Stealth,Mobile,2008,1.34
+Call of Duty: Modern Warfare,Stealth,PlayStation,2019,4.91
+Call of Duty: Modern Warfare,Stealth,Nintendo Switch,2023,8.07
+Call of Duty: Modern Warfare,Horror,Mobile,2001,7.37
+Call of Duty: Modern Warfare,Horror,PC,2000,5.67
+Call of Duty: Modern Warfare,Horror,PlayStation,2017,7.17
+Call of Duty: Modern Warfare,Horror,Nintendo Switch,2023,7.63
+Call of Duty: Modern Warfare,Horror,Xbox,2006,4.27
+Call of Duty: Modern Warfare,Puzzle,Xbox,2021,8.62
+Call of Duty: Modern Warfare,Puzzle,Mobile,2023,9.09
+Call of Duty: Modern Warfare,Strategy,Nintendo Switch,2017,2.14
+Call of Duty: Modern Warfare,Strategy,Xbox,2013,6.98
+Call of Duty: Modern Warfare,Strategy,PlayStation,2012,7.09
+Call of Duty: Modern Warfare,Strategy,Mobile,2005,6.53
+Call of Duty: Modern Warfare,Sports,Nintendo Switch,2006,4.86
+Call of Duty: Modern Warfare,Sports,PC,2018,6.45
+Call of Duty: Modern Warfare,Sports,PlayStation,2010,5.18
+Call of Duty: Modern Warfare,Sports,Xbox,2014,7.07
+Call of Duty: Modern Warfare,Survival,PlayStation,2007,7.05
+Call of Duty: Modern Warfare,Survival,PC,2007,8.25
+Call of Duty: Modern Warfare,Survival,Mobile,2004,1.22
+Call of Duty: Modern Warfare,Survival,Xbox,2007,9.85
+Call of Duty: Modern Warfare,Survival,Nintendo Switch,2019,8.64
+Call of Duty: Modern Warfare,Action,Nintendo Switch,2020,6.18
+Call of Duty: Modern Warfare,Action,Mobile,2022,7.26
+Call of Duty: Modern Warfare,Adventure,Nintendo Switch,2013,2.97
+Call of Duty: Modern Warfare,Adventure,PlayStation,2022,5.66
+Call of Duty: Modern Warfare,Adventure,PC,2001,6.01
+Call of Duty: Modern Warfare,Adventure,Xbox,2003,5.1
+Call of Duty: Modern Warfare,Adventure,Mobile,2014,7.0
+Call of Duty: Modern Warfare,Simulation,Nintendo Switch,2005,7.69
+Call of Duty: Modern Warfare,Simulation,Mobile,2015,5.05
+Call of Duty: Modern Warfare,Simulation,Xbox,2007,8.55
+Call of Duty: Modern Warfare,Simulation,PlayStation,2008,7.88
+Call of Duty: Modern Warfare,Racing,PlayStation,2007,3.44
+Call of Duty: Modern Warfare,Racing,Xbox,2010,9.03
+Call of Duty: Modern Warfare,Racing,Mobile,2002,2.24
+Call of Duty: Modern Warfare,Racing,PC,2007,4.44
+Call of Duty: Modern Warfare,Racing,Nintendo Switch,2004,7.35
+League of Legends,Shooter,Nintendo Switch,2000,9.48
+League of Legends,Shooter,PC,2009,7.77
+League of Legends,Shooter,Xbox,2013,5.84
+League of Legends,Shooter,PlayStation,2023,5.91
+League of Legends,Shooter,Mobile,2019,9.07
+League of Legends,Platformer,PlayStation,2012,4.02
+League of Legends,Platformer,Xbox,2021,8.18
+League of Legends,Platformer,Mobile,2023,2.48
+League of Legends,Platformer,Nintendo Switch,2014,9.27
+League of Legends,Platformer,PC,2019,5.8
+League of Legends,Role-playing,Mobile,2014,2.63
+League of Legends,Role-playing,PC,2008,4.41
+League of Legends,Role-playing,Nintendo Switch,2006,5.09
+League of Legends,Role-playing,PlayStation,2010,7.84
+League of Legends,Role-playing,Xbox,2012,3.5
+League of Legends,Sports,Xbox,2011,3.02
+League of Legends,Sports,PC,2002,8.02
+League of Legends,Sports,PlayStation,2020,1.36
+League of Legends,Sports,Nintendo Switch,2000,9.54
+League of Legends,Sports,Mobile,2006,8.54
+League of Legends,Simulation,PlayStation,2021,2.03
+League of Legends,Simulation,Mobile,2006,5.18
+League of Legends,Simulation,Nintendo Switch,2008,7.89
+League of Legends,Fighting,Mobile,2009,1.97
+League of Legends,Fighting,PC,2000,9.35
+League of Legends,Fighting,Nintendo Switch,2018,7.09
+League of Legends,Action,Nintendo Switch,2022,7.94
+League of Legends,Action,PlayStation,2021,6.4
+League of Legends,Action,PC,2003,8.16
+League of Legends,Action,Xbox,2018,8.04
+League of Legends,Action,Mobile,2011,5.79
+League of Legends,Adventure,PC,2015,1.95
+League of Legends,Adventure,Xbox,2011,6.71
+League of Legends,Adventure,Mobile,2014,7.36
+League of Legends,Adventure,PlayStation,2013,2.58
+Counter-Strike: Global Offensive,Strategy,PC,2007,7.75
+Counter-Strike: Global Offensive,Strategy,Xbox,2018,6.49
+Counter-Strike: Global Offensive,Strategy,PlayStation,2012,4.02
+Counter-Strike: Global Offensive,Racing,Xbox,2008,4.06
+Counter-Strike: Global Offensive,Racing,PlayStation,2019,7.3
+Counter-Strike: Global Offensive,Racing,Nintendo Switch,2008,6.0
+Counter-Strike: Global Offensive,Racing,PC,2016,9.52
+Counter-Strike: Global Offensive,Racing,Mobile,2002,3.17
+Counter-Strike: Global Offensive,Stealth,Nintendo Switch,2014,8.13
+Counter-Strike: Global Offensive,Stealth,PlayStation,2002,3.65
+Counter-Strike: Global Offensive,Stealth,Xbox,2012,7.22
+Counter-Strike: Global Offensive,Stealth,Mobile,2009,6.97
+Counter-Strike: Global Offensive,Stealth,PC,2011,5.25
+Counter-Strike: Global Offensive,Sports,Nintendo Switch,2008,3.76
+Counter-Strike: Global Offensive,Sports,Xbox,2007,2.08
+Counter-Strike: Global Offensive,Sports,PlayStation,2006,3.84
+Counter-Strike: Global Offensive,Sports,Mobile,2023,5.82
+Counter-Strike: Global Offensive,Simulation,PlayStation,2015,3.49
+Counter-Strike: Global Offensive,Simulation,Mobile,2018,9.78
+Counter-Strike: Global Offensive,Simulation,Xbox,2016,6.37
+Counter-Strike: Global Offensive,Survival,PlayStation,2007,4.24
+Counter-Strike: Global Offensive,Survival,Xbox,2009,1.13
+Counter-Strike: Global Offensive,Shooter,Xbox,2017,3.63
+Counter-Strike: Global Offensive,Shooter,PC,2004,6.73
+Counter-Strike: Global Offensive,Shooter,Nintendo Switch,2015,1.92
+Counter-Strike: Global Offensive,Platformer,Mobile,2015,5.3
+Counter-Strike: Global Offensive,Platformer,Xbox,2010,2.66
+Counter-Strike: Global Offensive,Role-playing,Xbox,2003,8.39
+Counter-Strike: Global Offensive,Role-playing,Nintendo Switch,2012,5.42
+Counter-Strike: Global Offensive,Fighting,PlayStation,2018,9.53
+Counter-Strike: Global Offensive,Fighting,Mobile,2002,9.94
+Counter-Strike: Global Offensive,Horror,Mobile,2019,6.36
+Counter-Strike: Global Offensive,Horror,Nintendo Switch,2019,3.03
+Counter-Strike: Global Offensive,Adventure,Nintendo Switch,2018,6.58
+Counter-Strike: Global Offensive,Adventure,Mobile,2019,9.63
+Counter-Strike: Global Offensive,Adventure,PlayStation,2003,9.52
+Counter-Strike: Global Offensive,Adventure,Xbox,2006,6.62
+Counter-Strike: Global Offensive,Adventure,PC,2008,6.94
+Red Dead Redemption 2,Puzzle,Xbox,2022,8.73
+Red Dead Redemption 2,Puzzle,PC,2002,7.18
+Red Dead Redemption 2,Puzzle,Nintendo Switch,2008,8.08
+Red Dead Redemption 2,Puzzle,PlayStation,2020,6.3
+Red Dead Redemption 2,Puzzle,Mobile,2006,4.82
+Red Dead Redemption 2,Horror,PlayStation,2002,1.54
+Red Dead Redemption 2,Horror,Xbox,2009,6.35
+Red Dead Redemption 2,Horror,PC,2018,9.28
+Red Dead Redemption 2,Sports,PC,2008,5.5
+Red Dead Redemption 2,Sports,Nintendo Switch,2015,4.94
+Red Dead Redemption 2,Sports,Xbox,2019,1.36
+Red Dead Redemption 2,Sports,PlayStation,2013,7.6
+Red Dead Redemption 2,Sports,Mobile,2019,3.25
+Red Dead Redemption 2,Adventure,PlayStation,2021,8.38
+Red Dead Redemption 2,Adventure,PC,2018,1.36
+Red Dead Redemption 2,Fighting,Nintendo Switch,2005,9.96
+Red Dead Redemption 2,Fighting,Mobile,2013,6.71
+Red Dead Redemption 2,Fighting,PlayStation,2015,9.71
+Red Dead Redemption 2,Action,Xbox,2005,3.96
+Red Dead Redemption 2,Action,Nintendo Switch,2022,5.45
+Red Dead Redemption 2,Action,PlayStation,2021,9.5
+Red Dead Redemption 2,Action,Mobile,2017,1.33
+Red Dead Redemption 2,Action,PC,2002,3.83
+Red Dead Redemption 2,Shooter,PC,2021,8.82
+Red Dead Redemption 2,Shooter,Nintendo Switch,2014,4.72
+Red Dead Redemption 2,Shooter,Xbox,2006,5.66
+Red Dead Redemption 2,Shooter,Mobile,2019,7.8
+Red Dead Redemption 2,Platformer,PC,2014,8.92
+Red Dead Redemption 2,Platformer,PlayStation,2015,2.09
+Red Dead Redemption 2,Platformer,Nintendo Switch,2020,6.47
+Red Dead Redemption 2,Platformer,Mobile,2007,7.38
+Red Dead Redemption 2,Platformer,Xbox,2009,5.95
+Red Dead Redemption 2,Role-playing,PC,2020,8.48
+Red Dead Redemption 2,Role-playing,PlayStation,2015,9.38
+Red Dead Redemption 2,Role-playing,Mobile,2009,5.57
+Red Dead Redemption 2,Role-playing,Nintendo Switch,2008,4.74
+Red Dead Redemption 2,Role-playing,Xbox,2015,9.81
+Halo Infinite,Simulation,Nintendo Switch,2000,3.54
+Halo Infinite,Simulation,Xbox,2009,8.53
+Halo Infinite,Simulation,Mobile,2018,9.98
+Halo Infinite,Simulation,PlayStation,2015,8.78
+Halo Infinite,Sports,Mobile,2014,9.39
+Halo Infinite,Sports,Nintendo Switch,2006,9.82
+Halo Infinite,Sports,PlayStation,2007,6.14
+Halo Infinite,Sports,Xbox,2007,8.7
+Halo Infinite,Sports,PC,2013,1.39
+Halo Infinite,Horror,Nintendo Switch,2001,2.13
+Halo Infinite,Horror,Mobile,2018,3.98
+Halo Infinite,Horror,Xbox,2003,8.86
+Halo Infinite,Horror,PC,2014,1.9
+Halo Infinite,Horror,PlayStation,2014,1.14
+Halo Infinite,Shooter,Nintendo Switch,2015,8.03
+Halo Infinite,Shooter,PlayStation,2008,4.04
+Halo Infinite,Shooter,PC,2022,4.57
+Halo Infinite,Puzzle,Xbox,2010,6.63
+Halo Infinite,Puzzle,Nintendo Switch,2015,8.84
+Halo Infinite,Fighting,Mobile,2007,6.67
+Halo Infinite,Fighting,PC,2009,9.97
+Halo Infinite,Survival,Nintendo Switch,2020,7.33
+Halo Infinite,Survival,PC,2003,4.99
+Halo Infinite,Strategy,PC,2009,4.22
+Halo Infinite,Strategy,Mobile,2013,2.31
+Halo Infinite,Strategy,PlayStation,2016,4.7
+Halo Infinite,Strategy,Nintendo Switch,2021,8.12
+Halo Infinite,Action,PlayStation,2012,6.57
+Halo Infinite,Action,PC,2007,5.47
+Halo Infinite,Action,Xbox,2018,2.29
+The Legend of Zelda: Breath of the Wild,Strategy,Xbox,2014,8.6
+The Legend of Zelda: Breath of the Wild,Strategy,Mobile,2006,9.98
+The Legend of Zelda: Breath of the Wild,Strategy,Nintendo Switch,2015,1.96
+The Legend of Zelda: Breath of the Wild,Strategy,PlayStation,2012,6.14
+The Legend of Zelda: Breath of the Wild,Strategy,PC,2018,3.66
+The Legend of Zelda: Breath of the Wild,Racing,PC,2018,8.78
+The Legend of Zelda: Breath of the Wild,Racing,Nintendo Switch,2023,9.75
+The Legend of Zelda: Breath of the Wild,Racing,PlayStation,2019,7.7
+The Legend of Zelda: Breath of the Wild,Racing,Mobile,2009,7.97
+The Legend of Zelda: Breath of the Wild,Simulation,Mobile,2020,2.71
+The Legend of Zelda: Breath of the Wild,Simulation,Xbox,2008,7.09
+The Legend of Zelda: Breath of the Wild,Simulation,PC,2023,7.9
+The Legend of Zelda: Breath of the Wild,Fighting,PC,2014,1.3
+The Legend of Zelda: Breath of the Wild,Fighting,Mobile,2011,7.58
+The Legend of Zelda: Breath of the Wild,Fighting,PlayStation,2002,9.18
+The Legend of Zelda: Breath of the Wild,Action,Nintendo Switch,2017,8.88
+The Legend of Zelda: Breath of the Wild,Action,PlayStation,2011,5.77
+The Legend of Zelda: Breath of the Wild,Action,PC,2008,8.47
+The Legend of Zelda: Breath of the Wild,Action,Xbox,2008,9.22
+The Legend of Zelda: Breath of the Wild,Survival,Xbox,2004,7.78
+The Legend of Zelda: Breath of the Wild,Survival,Mobile,2007,8.73
+The Legend of Zelda: Breath of the Wild,Survival,PC,2023,7.06
+The Legend of Zelda: Breath of the Wild,Survival,PlayStation,2012,9.7
+The Legend of Zelda: Breath of the Wild,Survival,Nintendo Switch,2017,4.29
+The Legend of Zelda: Breath of the Wild,Platformer,PC,2011,7.05
+The Legend of Zelda: Breath of the Wild,Platformer,Xbox,2021,3.36
+The Legend of Zelda: Breath of the Wild,Platformer,Nintendo Switch,2012,8.39
+The Legend of Zelda: Breath of the Wild,Platformer,Mobile,2011,1.97
+The Legend of Zelda: Breath of the Wild,Platformer,PlayStation,2007,5.24
+The Legend of Zelda: Breath of the Wild,Role-playing,Mobile,2020,8.41
+The Legend of Zelda: Breath of the Wild,Role-playing,PlayStation,2022,3.72
+The Legend of Zelda: Breath of the Wild,Role-playing,Xbox,2013,2.05
+The Legend of Zelda: Breath of the Wild,Role-playing,PC,2001,9.51
+The Legend of Zelda: Breath of the Wild,Sports,Nintendo Switch,2017,2.22
+The Legend of Zelda: Breath of the Wild,Sports,PC,2014,4.34
+The Legend of Zelda: Breath of the Wild,Sports,Mobile,2023,7.26
+The Legend of Zelda: Breath of the Wild,Sports,Xbox,2017,4.77
+The Legend of Zelda: Breath of the Wild,Adventure,Nintendo Switch,2019,4.67
+The Legend of Zelda: Breath of the Wild,Adventure,PC,2008,1.29
+The Legend of Zelda: Breath of the Wild,Adventure,PlayStation,2011,2.95
+The Legend of Zelda: Breath of the Wild,Stealth,PlayStation,2001,4.58
+The Legend of Zelda: Breath of the Wild,Stealth,Xbox,2006,9.7
+The Legend of Zelda: Breath of the Wild,Stealth,PC,2014,1.82
+The Legend of Zelda: Breath of the Wild,Stealth,Mobile,2006,6.77
+The Legend of Zelda: Breath of the Wild,Stealth,Nintendo Switch,2019,9.73
+Valorant,Fighting,Mobile,2010,7.96
+Valorant,Fighting,PlayStation,2019,1.03
+Valorant,Fighting,PC,2004,9.88
+Valorant,Role-playing,PlayStation,2004,1.13
+Valorant,Role-playing,PC,2007,6.29
+Valorant,Role-playing,Xbox,2000,2.57
+Valorant,Role-playing,Nintendo Switch,2001,2.14
+Valorant,Puzzle,Mobile,2014,7.99
+Valorant,Puzzle,PC,2016,6.34
+Valorant,Puzzle,Xbox,2014,5.53
+Valorant,Puzzle,Nintendo Switch,2019,1.39
+Valorant,Puzzle,PlayStation,2021,5.69
+Valorant,Horror,PC,2021,1.97
+Valorant,Horror,Mobile,2022,9.18
+Valorant,Horror,PlayStation,2002,9.08
+Valorant,Horror,Xbox,2010,6.47
+Valorant,Horror,Nintendo Switch,2002,2.13
+Valorant,Stealth,Nintendo Switch,2003,8.13
+Valorant,Stealth,Xbox,2003,8.67
+Valorant,Stealth,PlayStation,2020,8.89
+Valorant,Stealth,Mobile,2017,7.48
+Valorant,Survival,Nintendo Switch,2013,4.05
+Valorant,Survival,Mobile,2014,4.58
+Valorant,Survival,PC,2023,1.85
+Valorant,Adventure,Xbox,2002,1.82
+Valorant,Adventure,Mobile,2002,1.84
+Valorant,Adventure,PlayStation,2003,7.69
+Valorant,Adventure,PC,2011,8.3
+Valorant,Adventure,Nintendo Switch,2017,1.54
+Valorant,Shooter,PC,2023,1.46
+Valorant,Shooter,Nintendo Switch,2009,6.4
+Valorant,Shooter,PlayStation,2011,1.93
+Valorant,Shooter,Xbox,2016,2.91
+Super Mario Odyssey,Simulation,PC,2010,4.16
+Super Mario Odyssey,Simulation,PlayStation,2005,8.82
+Super Mario Odyssey,Simulation,Nintendo Switch,2018,6.91
+Super Mario Odyssey,Simulation,Xbox,2002,2.28
+Super Mario Odyssey,Puzzle,PC,2012,4.77
+Super Mario Odyssey,Puzzle,PlayStation,2010,2.42
+Super Mario Odyssey,Adventure,Xbox,2005,7.78
+Super Mario Odyssey,Adventure,PC,2001,7.06
+Super Mario Odyssey,Adventure,Nintendo Switch,2008,4.98
+Super Mario Odyssey,Adventure,Mobile,2013,5.37
+Super Mario Odyssey,Role-playing,Nintendo Switch,2013,2.0
+Super Mario Odyssey,Role-playing,Xbox,2021,7.1
+Super Mario Odyssey,Role-playing,PC,2015,5.74
+Super Mario Odyssey,Role-playing,Mobile,2009,1.41
+Super Mario Odyssey,Role-playing,PlayStation,2012,9.85
+Super Mario Odyssey,Sports,PC,2009,9.5
+Super Mario Odyssey,Sports,PlayStation,2004,7.87
+Super Mario Odyssey,Strategy,Xbox,2023,4.87
+Super Mario Odyssey,Strategy,PC,2004,4.42
+Super Mario Odyssey,Strategy,Nintendo Switch,2022,3.07
+Super Mario Odyssey,Strategy,PlayStation,2017,8.49
+Super Mario Odyssey,Survival,PC,2013,1.17
+Super Mario Odyssey,Survival,Nintendo Switch,2002,8.75
+Super Mario Odyssey,Survival,Xbox,2018,4.86
+Super Mario Odyssey,Survival,Mobile,2012,7.38
+Super Mario Odyssey,Shooter,Xbox,2005,8.2
+Super Mario Odyssey,Shooter,PC,2019,5.14
+Super Mario Odyssey,Shooter,PlayStation,2022,9.27
+Super Mario Odyssey,Shooter,Nintendo Switch,2002,4.93
+Super Mario Odyssey,Shooter,Mobile,2003,3.19
+Super Mario Odyssey,Horror,Mobile,2007,3.99
+Super Mario Odyssey,Horror,PC,2005,1.69
+Super Mario Odyssey,Horror,PlayStation,2020,2.03
+Super Mario Odyssey,Horror,Xbox,2016,2.74
+Super Mario Odyssey,Horror,Nintendo Switch,2011,4.16
+Super Mario Odyssey,Racing,PlayStation,2008,2.77
+Super Mario Odyssey,Racing,PC,2019,2.37
+Super Mario Odyssey,Racing,Nintendo Switch,2020,1.68
+Super Mario Odyssey,Platformer,Nintendo Switch,2004,4.95
+Super Mario Odyssey,Platformer,Mobile,2015,4.98
+Super Mario Odyssey,Platformer,Xbox,2009,8.16
+Super Mario Odyssey,Platformer,PlayStation,2018,1.5
+Super Mario Odyssey,Platformer,PC,2016,1.67
+Super Mario Odyssey,Fighting,Nintendo Switch,2002,6.8
+Super Mario Odyssey,Fighting,PC,2002,6.53
+Super Mario Odyssey,Fighting,Mobile,2016,4.46
+Super Mario Odyssey,Fighting,PlayStation,2018,5.98
+Super Mario Odyssey,Fighting,Xbox,2023,9.05
+Super Mario Odyssey,Action,Mobile,2001,5.05
+Super Mario Odyssey,Action,PlayStation,2010,9.83
+Super Mario Odyssey,Action,Nintendo Switch,2002,5.54
+Super Mario Odyssey,Action,Xbox,2005,1.35
+Super Mario Odyssey,Action,PC,2022,4.94
+Apex Legends,Sports,PC,2009,3.27
+Apex Legends,Sports,Xbox,2021,9.67
+Apex Legends,Sports,Mobile,2019,8.85
+Apex Legends,Sports,PlayStation,2010,1.73
+Apex Legends,Platformer,Xbox,2022,6.95
+Apex Legends,Platformer,Mobile,2004,6.35
+Apex Legends,Platformer,Nintendo Switch,2002,3.78
+Apex Legends,Stealth,Xbox,2016,4.25
+Apex Legends,Stealth,PlayStation,2011,3.78
+Apex Legends,Stealth,Mobile,2006,4.07
+Apex Legends,Stealth,PC,2015,2.73
+Apex Legends,Stealth,Nintendo Switch,2004,2.39
+Apex Legends,Horror,PC,2019,2.18
+Apex Legends,Horror,Mobile,2012,2.39
+Apex Legends,Horror,Xbox,2005,8.47
+Apex Legends,Horror,PlayStation,2019,8.27
+Apex Legends,Role-playing,Nintendo Switch,2011,7.08
+Apex Legends,Role-playing,PC,2007,9.72
+Apex Legends,Role-playing,PlayStation,2019,3.56
+Apex Legends,Survival,PlayStation,2011,7.1
+Apex Legends,Survival,Mobile,2018,9.85
+Apex Legends,Survival,Nintendo Switch,2014,7.92
+Apex Legends,Survival,Xbox,2012,5.52
+Apex Legends,Survival,PC,2013,9.69
+Apex Legends,Racing,Mobile,2001,6.76
+Apex Legends,Racing,PlayStation,2011,5.99
+Apex Legends,Racing,Nintendo Switch,2003,7.4
+Apex Legends,Puzzle,Xbox,2005,3.45
+Apex Legends,Puzzle,PC,2016,2.32
+Apex Legends,Shooter,PC,2013,1.48
+Apex Legends,Shooter,PlayStation,2016,4.36
+Apex Legends,Shooter,Nintendo Switch,2012,9.94
+Apex Legends,Shooter,Xbox,2011,3.02
+Apex Legends,Shooter,Mobile,2010,9.37
+Apex Legends,Strategy,PlayStation,2015,7.26
+Apex Legends,Strategy,Mobile,2004,7.82
+Apex Legends,Strategy,PC,2015,5.03
+Apex Legends,Strategy,Nintendo Switch,2000,9.14
+Apex Legends,Action,Xbox,2004,5.93
+Apex Legends,Action,PlayStation,2023,6.47
+Grand Theft Auto IV,Adventure,PC,2019,5.82
+Grand Theft Auto IV,Adventure,Nintendo Switch,2020,5.63
+Grand Theft Auto IV,Fighting,PlayStation,2000,6.53
+Grand Theft Auto IV,Fighting,Xbox,2007,6.13
+Grand Theft Auto IV,Fighting,Mobile,2005,6.97
+Grand Theft Auto IV,Racing,Mobile,2002,9.57
+Grand Theft Auto IV,Racing,Xbox,2017,5.56
+Grand Theft Auto IV,Puzzle,Nintendo Switch,2001,6.71
+Grand Theft Auto IV,Puzzle,Mobile,2011,3.28
+Grand Theft Auto IV,Survival,Xbox,2011,3.17
+Grand Theft Auto IV,Survival,PC,2021,6.65
+Grand Theft Auto IV,Platformer,PlayStation,2020,2.57
+Grand Theft Auto IV,Platformer,PC,2021,5.18
+Grand Theft Auto IV,Platformer,Mobile,2022,5.3
+Grand Theft Auto IV,Platformer,Xbox,2005,8.3
+Grand Theft Auto IV,Action,Nintendo Switch,2009,2.81
+Grand Theft Auto IV,Action,PC,2006,8.96
+Grand Theft Auto IV,Sports,Xbox,2008,1.33
+Grand Theft Auto IV,Sports,Nintendo Switch,2020,2.72
+Grand Theft Auto IV,Sports,Mobile,2011,8.75
+Grand Theft Auto IV,Sports,PlayStation,2001,8.78
+Grand Theft Auto IV,Strategy,Xbox,2012,7.68
+Grand Theft Auto IV,Strategy,PC,2012,4.05
+Grand Theft Auto IV,Strategy,PlayStation,2005,5.46
+Grand Theft Auto IV,Strategy,Mobile,2015,4.3
+Grand Theft Auto IV,Stealth,PC,2019,9.95
+Grand Theft Auto IV,Stealth,Nintendo Switch,2005,5.9
+Grand Theft Auto IV,Stealth,Mobile,2010,1.92
+Grand Theft Auto IV,Stealth,PlayStation,2010,6.94
+Grand Theft Auto IV,Role-playing,Nintendo Switch,2011,5.02
+Grand Theft Auto IV,Role-playing,Mobile,2023,8.82
+Grand Theft Auto IV,Role-playing,PC,2011,6.53
+Grand Theft Auto IV,Role-playing,PlayStation,2013,3.47
+Overwatch,Action,Xbox,2018,1.29
+Overwatch,Action,Mobile,2004,7.1
+Overwatch,Action,PlayStation,2011,4.34
+Overwatch,Adventure,Mobile,2016,4.3
+Overwatch,Adventure,PlayStation,2010,6.84
+Overwatch,Strategy,PC,2005,5.49
+Overwatch,Strategy,Mobile,2012,9.21
+Overwatch,Strategy,Xbox,2003,3.35
+Overwatch,Survival,Nintendo Switch,2022,9.24
+Overwatch,Survival,PlayStation,2015,2.8
+Overwatch,Survival,Xbox,2004,8.67
+Overwatch,Survival,Mobile,2014,2.55
+Overwatch,Shooter,PC,2017,5.87
+Overwatch,Shooter,Xbox,2009,8.65
+Overwatch,Shooter,Nintendo Switch,2022,7.38
+Overwatch,Shooter,PlayStation,2022,6.73
+Overwatch,Shooter,Mobile,2011,5.57
+Overwatch,Role-playing,PlayStation,2007,8.11
+Overwatch,Role-playing,Mobile,2000,4.24
+Overwatch,Horror,Nintendo Switch,2002,3.78
+Overwatch,Horror,PlayStation,2022,7.46
+Overwatch,Horror,Xbox,2016,4.69
+Overwatch,Horror,PC,2013,8.4
+Overwatch,Platformer,PlayStation,2020,1.67
+Overwatch,Platformer,Xbox,2014,7.11
+Overwatch,Fighting,PlayStation,2016,9.19
+Overwatch,Fighting,Mobile,2001,8.47
+Overwatch,Fighting,PC,2016,2.38
+Overwatch,Fighting,Nintendo Switch,2005,2.46
+Overwatch,Racing,Xbox,2008,2.76
+Overwatch,Racing,Mobile,2017,3.47
+Overwatch,Racing,PC,2020,3.72
+Overwatch,Puzzle,Mobile,2018,9.47
+Overwatch,Puzzle,PlayStation,2004,2.54
+Overwatch,Stealth,Mobile,2001,9.53
+Overwatch,Stealth,PC,2018,3.38
+Overwatch,Stealth,Nintendo Switch,2006,7.89
+Overwatch,Stealth,Xbox,2013,6.56
+Overwatch,Simulation,Nintendo Switch,2020,9.6
+Overwatch,Simulation,Xbox,2015,3.2
+Overwatch,Sports,Xbox,2014,4.74
+Overwatch,Sports,Nintendo Switch,2014,2.83
+Overwatch,Sports,PC,2019,2.29
+Overwatch,Sports,Mobile,2022,3.87
+Overwatch,Sports,PlayStation,2011,9.77
+FIFA 21,Fighting,Nintendo Switch,2001,3.61
+FIFA 21,Fighting,PlayStation,2012,8.77
+FIFA 21,Fighting,PC,2013,3.23
+FIFA 21,Fighting,Xbox,2005,8.31
+FIFA 21,Role-playing,PlayStation,2015,8.9
+FIFA 21,Role-playing,Mobile,2015,1.21
+FIFA 21,Role-playing,Nintendo Switch,2012,5.54
+FIFA 21,Role-playing,Xbox,2007,2.93
+FIFA 21,Sports,PC,2019,8.93
+FIFA 21,Sports,Mobile,2020,7.05
+FIFA 21,Sports,PlayStation,2009,5.82
+FIFA 21,Sports,Xbox,2003,4.87
+FIFA 21,Survival,Xbox,2012,1.46
+FIFA 21,Survival,Nintendo Switch,2017,2.75
+FIFA 21,Survival,PlayStation,2017,3.59
+FIFA 21,Survival,PC,2012,5.53
+FIFA 21,Adventure,Mobile,2012,4.36
+FIFA 21,Adventure,PC,2010,6.01
+FIFA 21,Adventure,Nintendo Switch,2011,7.79
+FIFA 21,Adventure,Xbox,2006,6.42
+FIFA 21,Platformer,Mobile,2022,3.99
+FIFA 21,Platformer,PC,2015,5.67
+FIFA 21,Platformer,Nintendo Switch,2004,6.45
+FIFA 21,Platformer,Xbox,2016,2.26
+FIFA 21,Platformer,PlayStation,2019,3.86
+FIFA 21,Puzzle,Mobile,2022,6.06
+FIFA 21,Puzzle,Xbox,2015,8.33
+FIFA 21,Puzzle,Nintendo Switch,2011,3.98
+FIFA 21,Puzzle,PlayStation,2003,9.81
+FIFA 21,Puzzle,PC,2018,3.77
+FIFA 21,Simulation,Mobile,2008,9.69
+FIFA 21,Simulation,Nintendo Switch,2018,6.19
+FIFA 21,Action,Mobile,2005,5.71
+FIFA 21,Action,Nintendo Switch,2023,6.57
+Tetris,Shooter,Mobile,2016,2.86
+Tetris,Shooter,Nintendo Switch,2010,9.97
+Tetris,Shooter,Xbox,2015,5.72
+Tetris,Shooter,PC,2010,9.6
+Tetris,Shooter,PlayStation,2014,9.2
+Tetris,Horror,Mobile,2019,5.35
+Tetris,Horror,Xbox,2007,3.51
+Tetris,Horror,Nintendo Switch,2009,3.02
+Tetris,Horror,PlayStation,2009,7.93
+Tetris,Strategy,Nintendo Switch,2011,6.04
+Tetris,Strategy,Xbox,2023,3.46
+Tetris,Strategy,PlayStation,2003,6.16
+Tetris,Puzzle,Nintendo Switch,2009,9.59
+Tetris,Puzzle,Xbox,2002,4.11
+Tetris,Puzzle,PC,2014,6.9
+Tetris,Puzzle,PlayStation,2023,5.31
+Tetris,Puzzle,Mobile,2006,8.44
+Tetris,Action,Mobile,2019,7.66
+Tetris,Action,Xbox,2007,3.18
+Tetris,Action,PC,2021,9.14
+Tetris,Action,Nintendo Switch,2007,6.74
+Tetris,Adventure,PC,2010,7.45
+Tetris,Adventure,Nintendo Switch,2003,7.12
+Tetris,Survival,PC,2020,9.41
+Tetris,Survival,PlayStation,2015,5.29
+Tetris,Survival,Nintendo Switch,2006,7.8
+Tetris,Stealth,Xbox,2002,6.86
+Tetris,Stealth,Mobile,2007,5.81
+Tetris,Stealth,Nintendo Switch,2023,8.64
+Tetris,Stealth,PC,2001,9.21
+Tetris,Simulation,Nintendo Switch,2012,8.08
+Tetris,Simulation,PlayStation,2005,9.42
+Tetris,Simulation,PC,2009,8.88
+Tetris,Fighting,Xbox,2010,3.56
+Tetris,Fighting,PC,2020,5.88
+Tetris,Role-playing,PlayStation,2010,2.46
+Tetris,Role-playing,Nintendo Switch,2014,6.83
+Tetris,Role-playing,Mobile,2022,2.67
+Tetris,Role-playing,PC,2023,4.03
+Tetris,Role-playing,Xbox,2009,6.1
+Tetris,Platformer,PlayStation,2016,3.95
+Tetris,Platformer,Nintendo Switch,2012,7.02
+Tetris,Platformer,Mobile,2005,9.83
+Tetris,Sports,Xbox,2007,5.02
+Tetris,Sports,PlayStation,2008,9.58
+Tetris,Sports,PC,2009,6.24
+Tetris,Sports,Nintendo Switch,2018,1.1
+Tetris,Sports,Mobile,2020,4.23
+Tetris,Racing,PC,2009,2.44
+Tetris,Racing,Mobile,2021,5.52
+Tetris,Racing,PlayStation,2022,7.92
+God of War,Adventure,Mobile,2021,7.79
+God of War,Adventure,Nintendo Switch,2002,5.72
+God of War,Adventure,Xbox,2016,7.33
+God of War,Adventure,PC,2002,9.25
+God of War,Adventure,PlayStation,2003,1.56
+God of War,Strategy,Mobile,2010,8.68
+God of War,Strategy,PlayStation,2014,2.04
+God of War,Strategy,PC,2006,7.45
+God of War,Racing,PC,2016,4.73
+God of War,Racing,Nintendo Switch,2018,1.52
+God of War,Racing,Mobile,2014,7.05
+God of War,Racing,PlayStation,2009,7.5
+God of War,Racing,Xbox,2012,3.29
+God of War,Role-playing,PlayStation,2001,4.81
+God of War,Role-playing,PC,2022,1.57
+God of War,Stealth,PC,2001,3.58
+God of War,Stealth,Nintendo Switch,2005,7.91
+God of War,Puzzle,Xbox,2002,7.14
+God of War,Puzzle,Nintendo Switch,2021,8.86
+God of War,Puzzle,PlayStation,2004,6.88
+God of War,Puzzle,Mobile,2011,2.07
+God of War,Puzzle,PC,2017,4.53
+God of War,Sports,PlayStation,2009,5.16
+God of War,Sports,PC,2023,5.89
+God of War,Sports,Nintendo Switch,2017,4.41
+God of War,Platformer,PlayStation,2004,3.48
+God of War,Platformer,Nintendo Switch,2023,7.88
+God of War,Platformer,Mobile,2001,8.28
+God of War,Simulation,Mobile,2003,6.34
+God of War,Simulation,PC,2014,6.37
+God of War,Simulation,Nintendo Switch,2022,8.84
+God of War,Simulation,Xbox,2007,7.66
+God of War,Simulation,PlayStation,2012,4.95
+God of War,Shooter,PC,2009,3.11
+God of War,Shooter,PlayStation,2023,6.18
+God of War,Shooter,Xbox,2018,6.38
+God of War,Fighting,PlayStation,2013,3.7
+God of War,Fighting,Xbox,2001,6.0
+God of War,Fighting,PC,2018,8.91
+God of War,Fighting,Nintendo Switch,2005,6.63
+God of War,Horror,Mobile,2016,3.87
+God of War,Horror,Nintendo Switch,2013,4.67
+God of War,Horror,PC,2009,4.38
+God of War,Horror,PlayStation,2017,5.26
+God of War,Horror,Xbox,2007,3.7
+God of War,Survival,Nintendo Switch,2013,9.7
+God of War,Survival,PC,2017,5.76
+God of War,Survival,Xbox,2012,3.18
+Genshin Impact,Role-playing,Mobile,2015,2.88
+Genshin Impact,Role-playing,PC,2010,3.73
+Genshin Impact,Role-playing,Nintendo Switch,2000,2.9
+Genshin Impact,Role-playing,Xbox,2006,9.65
+Genshin Impact,Role-playing,PlayStation,2003,7.71
+Genshin Impact,Strategy,PlayStation,2009,4.42
+Genshin Impact,Strategy,Mobile,2017,6.83
+Genshin Impact,Strategy,Nintendo Switch,2009,3.35
+Genshin Impact,Strategy,PC,2016,8.94
+Genshin Impact,Strategy,Xbox,2014,1.89
+Genshin Impact,Adventure,Xbox,2001,6.06
+Genshin Impact,Adventure,PlayStation,2007,7.66
+Genshin Impact,Adventure,Nintendo Switch,2000,3.34
+Genshin Impact,Adventure,Mobile,2018,6.21
+Genshin Impact,Adventure,PC,2013,3.65
+Genshin Impact,Simulation,Xbox,2018,8.49
+Genshin Impact,Simulation,PlayStation,2015,5.95
+Genshin Impact,Simulation,Nintendo Switch,2021,4.03
+Genshin Impact,Platformer,Nintendo Switch,2004,7.48
+Genshin Impact,Platformer,Mobile,2015,2.65
+Genshin Impact,Platformer,PC,2017,9.9
+Genshin Impact,Platformer,PlayStation,2001,5.71
+Genshin Impact,Platformer,Xbox,2002,9.5
+Genshin Impact,Survival,PC,2004,8.57
+Genshin Impact,Survival,Nintendo Switch,2007,1.61
+Genshin Impact,Puzzle,PC,2014,4.36
+Genshin Impact,Puzzle,PlayStation,2019,6.73
+Genshin Impact,Puzzle,Xbox,2019,9.21
+Genshin Impact,Action,PC,2000,5.76
+Genshin Impact,Action,Mobile,2008,5.82
+Genshin Impact,Action,Xbox,2009,1.15
+Genshin Impact,Action,PlayStation,2022,7.06
+Genshin Impact,Action,Nintendo Switch,2005,1.96
+Genshin Impact,Horror,Mobile,2007,2.73
+Genshin Impact,Horror,PlayStation,2016,3.27
+Hades,Racing,PC,2012,4.39
+Hades,Racing,Mobile,2015,1.5
+Hades,Racing,Nintendo Switch,2000,7.32
+Hades,Racing,PlayStation,2002,5.49
+Hades,Fighting,Xbox,2006,9.1
+Hades,Fighting,PC,2022,8.98
+Hades,Fighting,Mobile,2015,3.44
+Hades,Fighting,Nintendo Switch,2002,7.15
+Hades,Fighting,PlayStation,2008,9.08
+Hades,Shooter,PlayStation,2000,9.64
+Hades,Shooter,Xbox,2018,2.3
+Hades,Adventure,PC,2021,9.06
+Hades,Adventure,Xbox,2010,4.45
+Hades,Adventure,Mobile,2023,2.26
+Hades,Adventure,Nintendo Switch,2022,7.51
+Hades,Adventure,PlayStation,2016,7.7
+Hades,Role-playing,PC,2002,4.06
+Hades,Role-playing,Mobile,2019,9.58
+Hades,Role-playing,PlayStation,2012,9.71
+Hades,Role-playing,Nintendo Switch,2010,1.27
+Hades,Survival,Nintendo Switch,2017,9.46
+Hades,Survival,Mobile,2013,2.67
+Hades,Survival,PC,2018,6.94
+Hades,Survival,PlayStation,2002,7.94
+Hades,Simulation,PlayStation,2004,4.42
+Hades,Simulation,PC,2020,2.39
+Hades,Simulation,Nintendo Switch,2012,3.85
+Hades,Simulation,Mobile,2003,1.82
+Hades,Platformer,Nintendo Switch,2004,1.78
+Hades,Platformer,Xbox,2013,5.04
+Hades,Platformer,PlayStation,2017,5.61
+Hades,Platformer,PC,2003,1.24
+Hades,Strategy,Mobile,2012,1.11
+Hades,Strategy,PC,2013,4.49
+Hades,Strategy,Xbox,2002,7.52
+Hades,Strategy,PlayStation,2017,9.14
+Hades,Stealth,Mobile,2012,2.52
+Hades,Stealth,PlayStation,2008,3.71
+Hades,Stealth,Xbox,2015,2.31
+Ghost of Tsushima,Shooter,Mobile,2009,1.06
+Ghost of Tsushima,Shooter,PlayStation,2012,3.99
+Ghost of Tsushima,Shooter,Nintendo Switch,2019,4.42
+Ghost of Tsushima,Shooter,PC,2010,4.96
+Ghost of Tsushima,Shooter,Xbox,2013,8.33
+Ghost of Tsushima,Racing,Xbox,2022,2.81
+Ghost of Tsushima,Racing,Mobile,2010,2.6
+Ghost of Tsushima,Racing,Nintendo Switch,2012,9.71
+Ghost of Tsushima,Platformer,Nintendo Switch,2008,8.34
+Ghost of Tsushima,Platformer,PlayStation,2012,4.28
+Ghost of Tsushima,Platformer,Mobile,2018,2.8
+Ghost of Tsushima,Platformer,Xbox,2017,2.62
+Ghost of Tsushima,Fighting,Nintendo Switch,2014,8.17
+Ghost of Tsushima,Fighting,PlayStation,2022,1.62
+Ghost of Tsushima,Simulation,Nintendo Switch,2008,6.92
+Ghost of Tsushima,Simulation,PlayStation,2022,4.8
+Ghost of Tsushima,Simulation,Xbox,2012,1.66
+Ghost of Tsushima,Simulation,Mobile,2019,5.31
+Ghost of Tsushima,Simulation,PC,2012,5.8
+Ghost of Tsushima,Adventure,Mobile,2007,6.91
+Ghost of Tsushima,Adventure,PC,2011,2.5
+Ghost of Tsushima,Adventure,PlayStation,2019,1.4
+Ghost of Tsushima,Adventure,Nintendo Switch,2020,7.09
+Ghost of Tsushima,Adventure,Xbox,2012,9.69
+Ghost of Tsushima,Role-playing,Nintendo Switch,2008,3.0
+Ghost of Tsushima,Role-playing,PC,2023,5.66
+Ghost of Tsushima,Role-playing,Mobile,2018,7.18
+Ghost of Tsushima,Role-playing,Xbox,2007,5.01
+Ghost of Tsushima,Horror,Nintendo Switch,2003,3.66
+Ghost of Tsushima,Horror,PlayStation,2002,2.04
+Ghost of Tsushima,Horror,Mobile,2023,2.27
+Ghost of Tsushima,Horror,PC,2009,4.08
+Ghost of Tsushima,Horror,Xbox,2006,5.68
+Ghost of Tsushima,Sports,Nintendo Switch,2010,1.6
+Ghost of Tsushima,Sports,PC,2001,8.28
+Ghost of Tsushima,Sports,PlayStation,2003,1.2
+Ghost of Tsushima,Sports,Xbox,2010,6.83
+Hitman 3,Fighting,PlayStation,2000,7.63
+Hitman 3,Fighting,Nintendo Switch,2006,5.04
+Hitman 3,Fighting,Mobile,2013,4.5
+Hitman 3,Horror,PlayStation,2002,6.19
+Hitman 3,Horror,Xbox,2017,2.68
+Hitman 3,Horror,Nintendo Switch,2010,2.77
+Hitman 3,Survival,Xbox,2016,9.68
+Hitman 3,Survival,Nintendo Switch,2010,6.37
+Hitman 3,Puzzle,Mobile,2019,2.55
+Hitman 3,Puzzle,PC,2021,7.35
+Hitman 3,Puzzle,PlayStation,2009,9.26
+Hitman 3,Puzzle,Xbox,2018,1.76
+Hitman 3,Puzzle,Nintendo Switch,2004,3.82
+Hitman 3,Sports,Xbox,2011,7.23
+Hitman 3,Sports,PC,2016,4.49
+Hitman 3,Sports,Nintendo Switch,2019,2.24
+Hitman 3,Platformer,Nintendo Switch,2015,3.6
+Hitman 3,Platformer,PlayStation,2005,3.83
+Hitman 3,Platformer,Mobile,2014,6.57
+Hitman 3,Platformer,PC,2011,9.56
+Hitman 3,Platformer,Xbox,2015,2.23
+Hitman 3,Stealth,Mobile,2022,8.55
+Hitman 3,Stealth,Nintendo Switch,2015,2.5
+Hitman 3,Stealth,PlayStation,2018,1.28
+Hitman 3,Stealth,Xbox,2007,3.63
+Hitman 3,Stealth,PC,2008,3.02
+Hitman 3,Simulation,PlayStation,2017,5.59
+Hitman 3,Simulation,Nintendo Switch,2018,2.03
+Hitman 3,Simulation,Xbox,2017,8.4
+Hitman 3,Simulation,Mobile,2011,5.87
+Hitman 3,Racing,Nintendo Switch,2013,1.92
+Hitman 3,Racing,PlayStation,2020,7.75
+Hitman 3,Strategy,PC,2002,4.95
+Hitman 3,Strategy,Nintendo Switch,2003,7.97
+Hitman 3,Strategy,PlayStation,2007,2.89
+Hitman 3,Strategy,Xbox,2023,6.29
+Hitman 3,Role-playing,Mobile,2006,8.31
+Hitman 3,Role-playing,Nintendo Switch,2001,6.12
+Hitman 3,Role-playing,PC,2017,3.53
+Hitman 3,Role-playing,Xbox,2017,2.51
+Hitman 3,Action,Xbox,2004,9.66
+Hitman 3,Action,Mobile,2013,9.26
+Hitman 3,Action,Nintendo Switch,2008,8.79
+Hitman 3,Action,PC,2004,7.31
+Hitman 3,Adventure,PlayStation,2010,8.45
+Hitman 3,Adventure,Mobile,2021,4.53
+Hitman 3,Adventure,Xbox,2004,6.19
+Cyberpunk 2077,Strategy,Nintendo Switch,2023,1.84
+Cyberpunk 2077,Strategy,Mobile,2014,6.71
+Cyberpunk 2077,Strategy,PlayStation,2022,4.22
+Cyberpunk 2077,Strategy,PC,2002,8.15
+Cyberpunk 2077,Shooter,PlayStation,2010,8.45
+Cyberpunk 2077,Shooter,Nintendo Switch,2010,5.92
+Cyberpunk 2077,Shooter,PC,2004,6.09
+Cyberpunk 2077,Shooter,Mobile,2015,8.09
+Cyberpunk 2077,Shooter,Xbox,2021,7.85
+Cyberpunk 2077,Fighting,PC,2000,2.12
+Cyberpunk 2077,Fighting,Nintendo Switch,2005,4.97
+Cyberpunk 2077,Simulation,Nintendo Switch,2022,9.18
+Cyberpunk 2077,Simulation,PlayStation,2020,3.71
+Cyberpunk 2077,Adventure,PC,2011,6.97
+Cyberpunk 2077,Adventure,Xbox,2020,2.49
+Cyberpunk 2077,Adventure,PlayStation,2012,6.62
+Cyberpunk 2077,Adventure,Mobile,2023,7.29
+Cyberpunk 2077,Stealth,Nintendo Switch,2003,1.01
+Cyberpunk 2077,Stealth,PC,2015,1.7
+Cyberpunk 2077,Stealth,Xbox,2018,3.03
+Cyberpunk 2077,Survival,PC,2013,7.24
+Cyberpunk 2077,Survival,Mobile,2015,1.64
+Cyberpunk 2077,Survival,Xbox,2012,1.8
+Cyberpunk 2077,Survival,PlayStation,2003,1.93
+Cyberpunk 2077,Survival,Nintendo Switch,2011,8.92
+Cyberpunk 2077,Racing,Nintendo Switch,2021,2.28
+Cyberpunk 2077,Racing,PlayStation,2016,6.06
+Cyberpunk 2077,Racing,Xbox,2019,6.84
+Cyberpunk 2077,Role-playing,Xbox,2019,7.17
+Cyberpunk 2077,Role-playing,PlayStation,2006,1.78
+Cyberpunk 2077,Role-playing,Mobile,2003,2.26
+Cyberpunk 2077,Role-playing,PC,2003,6.3
+Cyberpunk 2077,Role-playing,Nintendo Switch,2012,4.16
+Cyberpunk 2077,Horror,Xbox,2007,5.98
+Cyberpunk 2077,Horror,PlayStation,2019,7.48
+Cyberpunk 2077,Horror,PC,2009,8.0
+Cyberpunk 2077,Horror,Nintendo Switch,2022,1.24
+Cyberpunk 2077,Horror,Mobile,2021,8.87
+The Witcher 3: Wild Hunt,Sports,Nintendo Switch,2016,8.99
+The Witcher 3: Wild Hunt,Sports,PC,2000,9.87
+The Witcher 3: Wild Hunt,Sports,Mobile,2010,2.19
+The Witcher 3: Wild Hunt,Sports,PlayStation,2018,4.78
+The Witcher 3: Wild Hunt,Sports,Xbox,2017,7.14
+The Witcher 3: Wild Hunt,Stealth,PC,2008,2.94
+The Witcher 3: Wild Hunt,Stealth,Mobile,2001,9.53
+The Witcher 3: Wild Hunt,Stealth,Xbox,2012,5.55
+The Witcher 3: Wild Hunt,Stealth,Nintendo Switch,2020,7.41
+The Witcher 3: Wild Hunt,Stealth,PlayStation,2013,4.81
+The Witcher 3: Wild Hunt,Platformer,PC,2002,5.6
+The Witcher 3: Wild Hunt,Platformer,PlayStation,2006,9.76
+The Witcher 3: Wild Hunt,Platformer,Nintendo Switch,2004,5.82
+The Witcher 3: Wild Hunt,Platformer,Mobile,2012,6.27
+The Witcher 3: Wild Hunt,Platformer,Xbox,2020,7.12
+The Witcher 3: Wild Hunt,Puzzle,Xbox,2023,9.57
+The Witcher 3: Wild Hunt,Puzzle,Nintendo Switch,2007,1.52
+The Witcher 3: Wild Hunt,Shooter,Nintendo Switch,2014,6.5
+The Witcher 3: Wild Hunt,Shooter,PC,2001,3.78
+The Witcher 3: Wild Hunt,Racing,PC,2004,7.31
+The Witcher 3: Wild Hunt,Racing,Mobile,2005,5.46
+The Witcher 3: Wild Hunt,Racing,Xbox,2011,5.7
+The Witcher 3: Wild Hunt,Action,PlayStation,2023,8.97
+The Witcher 3: Wild Hunt,Action,Xbox,2000,4.01
+The Witcher 3: Wild Hunt,Action,PC,2013,3.45
+The Witcher 3: Wild Hunt,Action,Mobile,2002,3.36
+The Witcher 3: Wild Hunt,Fighting,Nintendo Switch,2016,4.24
+The Witcher 3: Wild Hunt,Fighting,Mobile,2015,8.73
+The Witcher 3: Wild Hunt,Adventure,Xbox,2003,9.04
+The Witcher 3: Wild Hunt,Adventure,PlayStation,2021,7.5
+The Witcher 3: Wild Hunt,Adventure,Nintendo Switch,2007,7.66
+Resident Evil Village,Action,PC,2010,3.23
+Resident Evil Village,Action,Nintendo Switch,2023,3.88
+Resident Evil Village,Action,Mobile,2002,6.14
+Resident Evil Village,Platformer,Mobile,2005,3.01
+Resident Evil Village,Platformer,PC,2016,9.82
+Resident Evil Village,Puzzle,PC,2002,5.97
+Resident Evil Village,Puzzle,Nintendo Switch,2000,4.32
+Resident Evil Village,Puzzle,PlayStation,2009,6.07
+Resident Evil Village,Puzzle,Xbox,2009,7.65
+Resident Evil Village,Puzzle,Mobile,2007,5.17
+Resident Evil Village,Fighting,PlayStation,2000,3.09
+Resident Evil Village,Fighting,Mobile,2011,6.72
+Resident Evil Village,Fighting,PC,2022,8.89
+Resident Evil Village,Fighting,Xbox,2010,1.01
+Resident Evil Village,Fighting,Nintendo Switch,2021,4.38
+Resident Evil Village,Simulation,PC,2013,5.42
+Resident Evil Village,Simulation,PlayStation,2001,9.74
+Resident Evil Village,Simulation,Xbox,2004,7.4
+Resident Evil Village,Simulation,Mobile,2002,1.39
+Resident Evil Village,Role-playing,Mobile,2011,5.12
+Resident Evil Village,Role-playing,Nintendo Switch,2023,1.76
+Resident Evil Village,Role-playing,Xbox,2003,5.54
+Resident Evil Village,Shooter,PC,2009,3.35
+Resident Evil Village,Shooter,Mobile,2010,9.33
+Resident Evil Village,Shooter,PlayStation,2012,7.3
+Resident Evil Village,Shooter,Nintendo Switch,2023,3.93
+Resident Evil Village,Shooter,Xbox,2014,3.44
+Resident Evil Village,Adventure,PlayStation,2018,1.98
+Resident Evil Village,Adventure,Mobile,2003,2.48
+Death Stranding,Role-playing,PlayStation,2022,7.26
+Death Stranding,Role-playing,Xbox,2001,2.93
+Death Stranding,Shooter,PlayStation,2011,4.56
+Death Stranding,Shooter,PC,2001,7.09
+Death Stranding,Shooter,Xbox,2008,8.37
+Death Stranding,Shooter,Nintendo Switch,2005,1.28
+Death Stranding,Adventure,Nintendo Switch,2004,2.09
+Death Stranding,Adventure,PlayStation,2001,8.47
+Death Stranding,Adventure,PC,2007,2.18
+Death Stranding,Adventure,Mobile,2012,4.35
+Death Stranding,Adventure,Xbox,2020,9.43
+Death Stranding,Sports,Mobile,2002,1.2
+Death Stranding,Sports,Xbox,2002,2.78
+Death Stranding,Platformer,PlayStation,2014,1.46
+Death Stranding,Platformer,PC,2018,4.89
+Death Stranding,Platformer,Mobile,2023,4.55
+Death Stranding,Platformer,Nintendo Switch,2000,4.44
+Death Stranding,Platformer,Xbox,2013,2.55
+Death Stranding,Puzzle,PlayStation,2014,8.94
+Death Stranding,Puzzle,Xbox,2001,6.52
+Death Stranding,Puzzle,Mobile,2019,3.21
+Death Stranding,Simulation,Nintendo Switch,2001,1.79
+Death Stranding,Simulation,Mobile,2012,2.23
+Death Stranding,Simulation,Xbox,2006,6.78
+Death Stranding,Simulation,PlayStation,2016,3.24
+Death Stranding,Horror,Nintendo Switch,2015,5.9
+Death Stranding,Horror,Xbox,2015,4.09
+Death Stranding,Strategy,Nintendo Switch,2010,6.37
+Death Stranding,Strategy,Xbox,2000,9.05
+Death Stranding,Strategy,PC,2008,1.53
+Death Stranding,Strategy,Mobile,2015,5.76
+Death Stranding,Fighting,PlayStation,2021,3.17
+Death Stranding,Fighting,PC,2017,8.34
+Death Stranding,Fighting,Nintendo Switch,2023,1.5
+Death Stranding,Action,Mobile,2005,2.58
+Death Stranding,Action,Nintendo Switch,2018,3.86
+Death Stranding,Action,PlayStation,2023,7.27
+Mass Effect Legendary Edition,Action,PC,2000,5.73
+Mass Effect Legendary Edition,Action,Mobile,2000,3.98
+Mass Effect Legendary Edition,Action,Nintendo Switch,2019,2.81
+Mass Effect Legendary Edition,Action,Xbox,2004,4.06
+Mass Effect Legendary Edition,Action,PlayStation,2005,9.26
+Mass Effect Legendary Edition,Survival,PC,2003,8.61
+Mass Effect Legendary Edition,Survival,Mobile,2011,9.64
+Mass Effect Legendary Edition,Survival,Nintendo Switch,2011,7.33
+Mass Effect Legendary Edition,Survival,Xbox,2021,4.56
+Mass Effect Legendary Edition,Fighting,Xbox,2010,2.23
+Mass Effect Legendary Edition,Fighting,Mobile,2005,7.58
+Mass Effect Legendary Edition,Role-playing,Nintendo Switch,2021,6.29
+Mass Effect Legendary Edition,Role-playing,Xbox,2005,4.4
+Mass Effect Legendary Edition,Role-playing,PC,2023,7.19
+Mass Effect Legendary Edition,Role-playing,PlayStation,2004,2.6
+Mass Effect Legendary Edition,Role-playing,Mobile,2000,9.53
+Mass Effect Legendary Edition,Stealth,Mobile,2020,6.08
+Mass Effect Legendary Edition,Stealth,PC,2015,2.26
+Mass Effect Legendary Edition,Stealth,Nintendo Switch,2023,1.7
+Mass Effect Legendary Edition,Stealth,PlayStation,2011,9.83
+Mass Effect Legendary Edition,Stealth,Xbox,2005,6.72
+Mass Effect Legendary Edition,Horror,Xbox,2000,3.38
+Mass Effect Legendary Edition,Horror,Nintendo Switch,2007,7.23
+Mass Effect Legendary Edition,Puzzle,Xbox,2001,4.47
+Mass Effect Legendary Edition,Puzzle,PC,2023,4.77
+Mass Effect Legendary Edition,Puzzle,Mobile,2005,8.95
+Mass Effect Legendary Edition,Puzzle,Nintendo Switch,2015,8.93
+Mass Effect Legendary Edition,Shooter,Mobile,2018,6.85
+Mass Effect Legendary Edition,Shooter,Nintendo Switch,2021,3.03
+Mass Effect Legendary Edition,Shooter,PC,2014,1.66
+Mass Effect Legendary Edition,Shooter,PlayStation,2001,3.65
+Mass Effect Legendary Edition,Simulation,Xbox,2005,8.98
+Mass Effect Legendary Edition,Simulation,PC,2005,7.58
+Mass Effect Legendary Edition,Simulation,Nintendo Switch,2017,9.47
+Mass Effect Legendary Edition,Simulation,PlayStation,2002,4.04
+Mass Effect Legendary Edition,Racing,PC,2005,1.48
+Mass Effect Legendary Edition,Racing,Nintendo Switch,2010,2.85
+Mass Effect Legendary Edition,Racing,Xbox,2006,4.68
+Mass Effect Legendary Edition,Racing,Mobile,2017,7.49
+Mass Effect Legendary Edition,Racing,PlayStation,2023,5.86
+Mass Effect Legendary Edition,Sports,Xbox,2012,6.14
+Mass Effect Legendary Edition,Sports,PlayStation,2015,2.38
+Mass Effect Legendary Edition,Sports,PC,2011,1.03
+Mass Effect Legendary Edition,Sports,Mobile,2002,3.65
+Mass Effect Legendary Edition,Platformer,PlayStation,2020,3.62
+Mass Effect Legendary Edition,Platformer,PC,2002,5.26
+Mass Effect Legendary Edition,Platformer,Nintendo Switch,2003,3.77
+Mass Effect Legendary Edition,Platformer,Xbox,2012,5.23
+Mass Effect Legendary Edition,Platformer,Mobile,2021,3.38
+The Division 2,Sports,Xbox,2022,7.0
+The Division 2,Sports,PC,2002,7.01
+The Division 2,Sports,Nintendo Switch,2017,4.72
+The Division 2,Shooter,Mobile,2016,4.76
+The Division 2,Shooter,PC,2017,7.18
+The Division 2,Shooter,PlayStation,2015,6.15
+The Division 2,Horror,Nintendo Switch,2012,9.12
+The Division 2,Horror,Xbox,2022,1.31
+The Division 2,Horror,PC,2018,9.1
+The Division 2,Role-playing,PC,2005,9.74
+The Division 2,Role-playing,Nintendo Switch,2006,2.13
+The Division 2,Role-playing,Mobile,2013,1.7
+The Division 2,Fighting,PlayStation,2023,9.22
+The Division 2,Fighting,Mobile,2002,1.78
+The Division 2,Fighting,Xbox,2017,4.57
+The Division 2,Fighting,Nintendo Switch,2010,8.7
+The Division 2,Fighting,PC,2016,5.12
+The Division 2,Strategy,Mobile,2003,4.73
+The Division 2,Strategy,Nintendo Switch,2004,6.09
+The Division 2,Survival,PC,2009,8.8
+The Division 2,Survival,Mobile,2011,8.89
+The Division 2,Puzzle,Nintendo Switch,2001,2.55
+The Division 2,Puzzle,Mobile,2012,2.29
+The Division 2,Puzzle,Xbox,2019,7.12
+The Division 2,Puzzle,PlayStation,2012,1.35
+The Division 2,Action,PlayStation,2008,9.06
+The Division 2,Action,PC,2000,4.04
+The Division 2,Action,Xbox,2009,3.8
+The Division 2,Action,Mobile,2015,8.72
+The Division 2,Simulation,PlayStation,2009,9.76
+The Division 2,Simulation,Mobile,2014,7.96
+The Division 2,Stealth,Xbox,2006,4.97
+The Division 2,Stealth,Nintendo Switch,2013,7.66
+The Division 2,Stealth,Mobile,2016,8.8
+The Division 2,Stealth,PC,2001,5.63
+The Division 2,Adventure,PC,2016,4.63
+The Division 2,Adventure,Xbox,2016,8.91
+The Division 2,Adventure,Nintendo Switch,2000,2.56
+The Division 2,Racing,PC,2014,1.45
+The Division 2,Racing,PlayStation,2011,7.33
+The Division 2,Racing,Mobile,2008,4.31
+PUBG Mobile,Sports,Mobile,2023,8.47
+PUBG Mobile,Sports,Xbox,2002,3.56
+PUBG Mobile,Sports,PlayStation,2012,1.45
+PUBG Mobile,Sports,PC,2018,8.01
+PUBG Mobile,Sports,Nintendo Switch,2006,8.71
+PUBG Mobile,Shooter,PlayStation,2013,5.61
+PUBG Mobile,Shooter,Xbox,2021,1.08
+PUBG Mobile,Shooter,Nintendo Switch,2004,6.82
+PUBG Mobile,Strategy,PlayStation,2019,8.24
+PUBG Mobile,Strategy,Xbox,2009,7.41
+PUBG Mobile,Adventure,Nintendo Switch,2008,2.96
+PUBG Mobile,Adventure,Mobile,2009,7.09
+PUBG Mobile,Adventure,PlayStation,2019,4.57
+PUBG Mobile,Adventure,Xbox,2003,1.07
+PUBG Mobile,Action,Mobile,2015,1.57
+PUBG Mobile,Action,Xbox,2008,6.76
+PUBG Mobile,Action,PlayStation,2008,3.35
+PUBG Mobile,Action,PC,2022,9.56
+PUBG Mobile,Puzzle,PlayStation,2001,8.24
+PUBG Mobile,Puzzle,Mobile,2019,4.63
+PUBG Mobile,Puzzle,Xbox,2010,7.12
+PUBG Mobile,Puzzle,PC,2023,1.23
+PUBG Mobile,Role-playing,Xbox,2023,1.32
+PUBG Mobile,Role-playing,Mobile,2022,9.94
+PUBG Mobile,Role-playing,PlayStation,2006,4.09
+PUBG Mobile,Role-playing,Nintendo Switch,2022,3.0
+PUBG Mobile,Role-playing,PC,2017,6.74
+PUBG Mobile,Platformer,Xbox,2003,5.23
+PUBG Mobile,Platformer,Mobile,2023,3.33
+PUBG Mobile,Platformer,PC,2017,7.86
+PUBG Mobile,Platformer,Nintendo Switch,2005,9.51
+PUBG Mobile,Platformer,PlayStation,2010,6.88
+PUBG Mobile,Racing,Xbox,2009,4.78
+PUBG Mobile,Racing,PlayStation,2010,4.34
+PUBG Mobile,Racing,Mobile,2018,3.64
+PUBG Mobile,Fighting,Nintendo Switch,2020,6.25
+PUBG Mobile,Fighting,PC,2019,1.64
+PUBG Mobile,Survival,Mobile,2012,5.76
+PUBG Mobile,Survival,PC,2013,1.49
+PUBG Mobile,Survival,Xbox,2004,2.23
+The Sims 4,Role-playing,Xbox,2014,3.46
+The Sims 4,Role-playing,PlayStation,2005,6.18
+The Sims 4,Role-playing,Nintendo Switch,2005,5.4
+The Sims 4,Role-playing,PC,2002,2.16
+The Sims 4,Role-playing,Mobile,2013,6.7
+The Sims 4,Shooter,Nintendo Switch,2017,2.79
+The Sims 4,Shooter,Mobile,2011,9.54
+The Sims 4,Shooter,PlayStation,2010,7.8
+The Sims 4,Shooter,PC,2016,2.71
+The Sims 4,Shooter,Xbox,2021,1.04
+The Sims 4,Stealth,PlayStation,2004,1.92
+The Sims 4,Stealth,Xbox,2016,6.29
+The Sims 4,Stealth,Mobile,2005,1.59
+The Sims 4,Simulation,Xbox,2014,7.54
+The Sims 4,Simulation,Mobile,2019,5.71
+The Sims 4,Horror,PlayStation,2005,9.52
+The Sims 4,Horror,Xbox,2012,1.17
+The Sims 4,Horror,Mobile,2007,7.54
+The Sims 4,Horror,Nintendo Switch,2004,2.9
+The Sims 4,Horror,PC,2000,6.3
+The Sims 4,Platformer,PC,2020,8.12
+The Sims 4,Platformer,Xbox,2012,8.88
+The Sims 4,Platformer,Nintendo Switch,2008,7.93
+The Sims 4,Survival,Mobile,2021,1.97
+The Sims 4,Survival,PC,2000,1.43
+The Sims 4,Fighting,Nintendo Switch,2012,2.11
+The Sims 4,Fighting,Mobile,2008,5.26
+The Sims 4,Action,PlayStation,2013,6.95
+The Sims 4,Action,PC,2021,5.68
+The Sims 4,Action,Mobile,2019,6.44
+Grand Theft Auto V,Shooter,PlayStation,2022,4.68
+Grand Theft Auto V,Shooter,Mobile,2005,1.35
+Grand Theft Auto V,Shooter,Nintendo Switch,2015,9.18
+Grand Theft Auto V,Shooter,PC,2022,9.39
+Grand Theft Auto V,Shooter,Xbox,2010,3.11
+Grand Theft Auto V,Adventure,PC,2018,7.01
+Grand Theft Auto V,Adventure,Mobile,2004,9.54
+Grand Theft Auto V,Sports,PC,2020,3.08
+Grand Theft Auto V,Sports,Xbox,2009,3.37
+Grand Theft Auto V,Stealth,PC,2001,8.66
+Grand Theft Auto V,Stealth,PlayStation,2011,8.21
+Grand Theft Auto V,Fighting,Nintendo Switch,2000,8.66
+Grand Theft Auto V,Fighting,PC,2021,6.82
+Grand Theft Auto V,Fighting,Mobile,2010,4.21
+Grand Theft Auto V,Fighting,Xbox,2014,9.59
+Grand Theft Auto V,Racing,PC,2003,4.6
+Grand Theft Auto V,Racing,Xbox,2014,3.44
+Grand Theft Auto V,Racing,PlayStation,2012,7.2
+Grand Theft Auto V,Racing,Mobile,2015,8.19
+Grand Theft Auto V,Strategy,PC,2023,1.53
+Grand Theft Auto V,Strategy,PlayStation,2005,1.93
+Grand Theft Auto V,Strategy,Xbox,2018,5.34
+Grand Theft Auto V,Platformer,PlayStation,2015,9.27
+Grand Theft Auto V,Platformer,Nintendo Switch,2003,8.98
+Grand Theft Auto V,Platformer,Mobile,2014,1.41
+Grand Theft Auto V,Platformer,PC,2008,6.89
+Grand Theft Auto V,Platformer,Xbox,2000,7.33
+Grand Theft Auto V,Action,Xbox,2021,7.53
+Grand Theft Auto V,Action,PC,2015,4.11
+Grand Theft Auto V,Action,PlayStation,2021,6.77
+Animal Crossing: New Horizons,Platformer,PC,2007,3.97
+Animal Crossing: New Horizons,Platformer,Nintendo Switch,2008,1.45
+Animal Crossing: New Horizons,Platformer,PlayStation,2007,5.95
+Animal Crossing: New Horizons,Sports,Nintendo Switch,2018,5.03
+Animal Crossing: New Horizons,Sports,PlayStation,2015,5.02
+Animal Crossing: New Horizons,Sports,PC,2003,9.82
+Animal Crossing: New Horizons,Sports,Mobile,2023,6.87
+Animal Crossing: New Horizons,Sports,Xbox,2003,4.63
+Animal Crossing: New Horizons,Stealth,Mobile,2002,8.12
+Animal Crossing: New Horizons,Stealth,PC,2019,6.73
+Animal Crossing: New Horizons,Action,Nintendo Switch,2001,8.34
+Animal Crossing: New Horizons,Action,Xbox,2014,3.98
+Animal Crossing: New Horizons,Action,PlayStation,2019,6.39
+Animal Crossing: New Horizons,Strategy,Nintendo Switch,2000,4.07
+Animal Crossing: New Horizons,Strategy,PC,2020,9.67
+Animal Crossing: New Horizons,Strategy,Mobile,2009,5.92
+Animal Crossing: New Horizons,Strategy,Xbox,2011,7.31
+Animal Crossing: New Horizons,Horror,PlayStation,2004,8.39
+Animal Crossing: New Horizons,Horror,Nintendo Switch,2023,7.49
+Animal Crossing: New Horizons,Simulation,Xbox,2006,2.09
+Animal Crossing: New Horizons,Simulation,PlayStation,2012,2.94
+Animal Crossing: New Horizons,Shooter,Xbox,2001,9.33
+Animal Crossing: New Horizons,Shooter,PC,2021,6.29
+Animal Crossing: New Horizons,Shooter,PlayStation,2014,5.11
+Animal Crossing: New Horizons,Puzzle,Nintendo Switch,2023,1.44
+Animal Crossing: New Horizons,Puzzle,PC,2013,8.54
+Animal Crossing: New Horizons,Puzzle,Xbox,2015,9.31
+Minecraft Dungeons,Horror,Xbox,2009,5.07
+Minecraft Dungeons,Horror,Nintendo Switch,2004,2.24
+Minecraft Dungeons,Horror,PlayStation,2019,7.29
+Minecraft Dungeons,Survival,Mobile,2006,2.89
+Minecraft Dungeons,Survival,Xbox,2022,3.61
+Minecraft Dungeons,Survival,Nintendo Switch,2011,9.28
+Minecraft Dungeons,Survival,PC,2004,9.82
+Minecraft Dungeons,Stealth,Mobile,2003,7.84
+Minecraft Dungeons,Stealth,Xbox,2017,5.32
+Minecraft Dungeons,Stealth,Nintendo Switch,2018,9.47
+Minecraft Dungeons,Platformer,Mobile,2000,4.42
+Minecraft Dungeons,Platformer,Xbox,2001,7.03
+Minecraft Dungeons,Platformer,PlayStation,2006,3.4
+Minecraft Dungeons,Platformer,PC,2005,9.84
+Minecraft Dungeons,Platformer,Nintendo Switch,2021,3.25
+Minecraft Dungeons,Strategy,Xbox,2017,1.29
+Minecraft Dungeons,Strategy,PlayStation,2014,1.92
+Minecraft Dungeons,Adventure,Mobile,2016,8.05
+Minecraft Dungeons,Adventure,Nintendo Switch,2022,3.59
+Minecraft Dungeons,Adventure,PC,2021,1.42
+Minecraft Dungeons,Shooter,Nintendo Switch,2000,7.69
+Minecraft Dungeons,Shooter,Mobile,2006,6.58
+Minecraft Dungeons,Shooter,Xbox,2014,8.46
+Minecraft Dungeons,Shooter,PlayStation,2020,7.33
+Minecraft Dungeons,Shooter,PC,2020,4.31
+Minecraft Dungeons,Role-playing,PlayStation,2005,9.84
+Minecraft Dungeons,Role-playing,Xbox,2002,2.68
+Minecraft Dungeons,Role-playing,Mobile,2005,7.61
+Minecraft Dungeons,Racing,Nintendo Switch,2013,3.51
+Minecraft Dungeons,Racing,PC,2008,2.17
+Minecraft Dungeons,Simulation,PC,2001,2.38
+Minecraft Dungeons,Simulation,Xbox,2010,6.37
+Minecraft Dungeons,Simulation,PlayStation,2020,6.53
+Minecraft Dungeons,Simulation,Mobile,2021,3.71
+Minecraft Dungeons,Fighting,PC,2005,5.68
+Minecraft Dungeons,Fighting,Xbox,2016,2.43
+Minecraft Dungeons,Fighting,Nintendo Switch,2017,5.83
+Minecraft Dungeons,Fighting,Mobile,2002,4.14
+Minecraft Dungeons,Puzzle,Xbox,2009,2.96
+Minecraft Dungeons,Puzzle,Mobile,2019,5.77
+Minecraft Dungeons,Puzzle,PlayStation,2017,8.4
+Minecraft Dungeons,Sports,PC,2014,3.16
+Minecraft Dungeons,Sports,Xbox,2020,6.52
+Minecraft Dungeons,Action,PC,2003,4.47
+Minecraft Dungeons,Action,Xbox,2017,7.51
+Minecraft Dungeons,Action,PlayStation,2000,9.19
+The Elder Scrolls V: Skyrim,Fighting,Mobile,2002,2.89
+The Elder Scrolls V: Skyrim,Fighting,PC,2020,7.95
+The Elder Scrolls V: Skyrim,Fighting,Xbox,2021,4.81
+The Elder Scrolls V: Skyrim,Role-playing,PlayStation,2020,8.34
+The Elder Scrolls V: Skyrim,Role-playing,Nintendo Switch,2002,7.71
+The Elder Scrolls V: Skyrim,Sports,PC,2010,1.34
+The Elder Scrolls V: Skyrim,Sports,Nintendo Switch,2002,1.49
+The Elder Scrolls V: Skyrim,Sports,Xbox,2008,6.02
+The Elder Scrolls V: Skyrim,Survival,Xbox,2014,6.67
+The Elder Scrolls V: Skyrim,Survival,Nintendo Switch,2013,3.84
+The Elder Scrolls V: Skyrim,Survival,PlayStation,2012,7.05
+The Elder Scrolls V: Skyrim,Simulation,Mobile,2023,6.26
+The Elder Scrolls V: Skyrim,Simulation,PC,2022,8.63
+The Elder Scrolls V: Skyrim,Stealth,Mobile,2019,1.78
+The Elder Scrolls V: Skyrim,Stealth,PC,2014,4.43
+The Elder Scrolls V: Skyrim,Stealth,PlayStation,2021,1.28
+The Elder Scrolls V: Skyrim,Stealth,Xbox,2005,5.8
+The Elder Scrolls V: Skyrim,Action,Nintendo Switch,2004,3.68
+The Elder Scrolls V: Skyrim,Action,Xbox,2023,6.82
+The Elder Scrolls V: Skyrim,Action,Mobile,2000,5.98
+The Elder Scrolls V: Skyrim,Horror,PC,2018,6.36
+The Elder Scrolls V: Skyrim,Horror,Mobile,2017,5.92
+The Elder Scrolls V: Skyrim,Horror,Nintendo Switch,2002,3.74
+The Elder Scrolls V: Skyrim,Platformer,PlayStation,2005,2.65
+The Elder Scrolls V: Skyrim,Platformer,Nintendo Switch,2019,8.5
+The Elder Scrolls V: Skyrim,Platformer,Xbox,2006,2.03
+The Elder Scrolls V: Skyrim,Platformer,PC,2021,8.19
+The Elder Scrolls V: Skyrim,Adventure,Mobile,2020,5.94
+The Elder Scrolls V: Skyrim,Adventure,Nintendo Switch,2009,7.04
+The Elder Scrolls V: Skyrim,Shooter,PC,2010,4.21
+The Elder Scrolls V: Skyrim,Shooter,PlayStation,2021,6.89
+The Elder Scrolls V: Skyrim,Shooter,Xbox,2003,3.56
+The Elder Scrolls V: Skyrim,Shooter,Nintendo Switch,2002,9.09
+The Elder Scrolls V: Skyrim,Puzzle,Nintendo Switch,2022,6.25
+The Elder Scrolls V: Skyrim,Puzzle,Mobile,2018,6.1
+The Elder Scrolls V: Skyrim,Puzzle,PlayStation,2010,9.62
+The Elder Scrolls V: Skyrim,Puzzle,Xbox,2005,1.04
+The Elder Scrolls V: Skyrim,Strategy,PlayStation,2011,2.21
+The Elder Scrolls V: Skyrim,Strategy,Nintendo Switch,2023,3.98
+The Elder Scrolls V: Skyrim,Strategy,Mobile,2015,5.16
+The Elder Scrolls V: Skyrim,Racing,Xbox,2005,6.8
+The Elder Scrolls V: Skyrim,Racing,Nintendo Switch,2002,8.57
+The Elder Scrolls V: Skyrim,Racing,Mobile,2004,9.01
+The Elder Scrolls V: Skyrim,Racing,PC,2006,3.37
+Sea of Thieves,Adventure,PlayStation,2004,5.18
+Sea of Thieves,Adventure,Xbox,2016,1.81
+Sea of Thieves,Adventure,Mobile,2011,5.51
+Sea of Thieves,Adventure,PC,2021,3.15
+Sea of Thieves,Adventure,Nintendo Switch,2019,7.15
+Sea of Thieves,Survival,Nintendo Switch,2018,9.53
+Sea of Thieves,Survival,PlayStation,2021,8.84
+Sea of Thieves,Survival,PC,2004,7.62
+Sea of Thieves,Platformer,Xbox,2002,3.38
+Sea of Thieves,Platformer,PC,2007,1.38
+Sea of Thieves,Platformer,Nintendo Switch,2006,5.66
+Sea of Thieves,Platformer,PlayStation,2011,4.49
+Sea of Thieves,Platformer,Mobile,2014,8.93
+Sea of Thieves,Action,Xbox,2022,9.71
+Sea of Thieves,Action,PC,2020,8.46
+Sea of Thieves,Sports,Mobile,2011,6.28
+Sea of Thieves,Sports,PlayStation,2002,5.64
+Sea of Thieves,Sports,Nintendo Switch,2012,9.74
+Sea of Thieves,Sports,Xbox,2007,5.64
+Sea of Thieves,Strategy,Xbox,2016,8.93
+Sea of Thieves,Strategy,Nintendo Switch,2014,2.49
+Sea of Thieves,Strategy,PlayStation,2002,5.63
+Sea of Thieves,Strategy,PC,2008,2.9
+Sea of Thieves,Shooter,PlayStation,2022,8.34
+Sea of Thieves,Shooter,Xbox,2021,3.07
+Sea of Thieves,Shooter,Nintendo Switch,2010,7.48
+Sea of Thieves,Simulation,Nintendo Switch,2000,3.19
+Sea of Thieves,Simulation,Mobile,2004,6.16
+Sea of Thieves,Simulation,PC,2005,2.21
+Sea of Thieves,Simulation,Xbox,2016,1.35
+Sea of Thieves,Simulation,PlayStation,2018,2.32
+Sea of Thieves,Racing,Xbox,2012,6.39
+Sea of Thieves,Racing,PlayStation,2018,6.73
+Sea of Thieves,Racing,Mobile,2023,7.54
+Sea of Thieves,Fighting,PC,2015,2.53
+Sea of Thieves,Fighting,PlayStation,2013,6.4
+Sea of Thieves,Fighting,Nintendo Switch,2018,8.38
+Sea of Thieves,Fighting,Xbox,2005,6.6
+Sea of Thieves,Stealth,PlayStation,2007,4.4
+Sea of Thieves,Stealth,Xbox,2004,1.98
+Sea of Thieves,Stealth,Mobile,2006,5.7
+Sea of Thieves,Stealth,PC,2016,7.15
+Sea of Thieves,Horror,Mobile,2015,9.11
+Sea of Thieves,Horror,PC,2019,1.35
+Sea of Thieves,Horror,Nintendo Switch,2017,5.52
+Sea of Thieves,Role-playing,PC,2021,2.17
+Sea of Thieves,Role-playing,Nintendo Switch,2019,5.85
+PUBG,Fighting,Mobile,2007,9.44
+PUBG,Fighting,Nintendo Switch,2015,8.1
+PUBG,Strategy,Xbox,2015,7.89
+PUBG,Strategy,PC,2002,3.55
+PUBG,Strategy,PlayStation,2017,4.67
+PUBG,Strategy,Nintendo Switch,2006,1.05
+PUBG,Strategy,Mobile,2023,8.1
+PUBG,Platformer,Mobile,2012,6.88
+PUBG,Platformer,PC,2022,8.23
+PUBG,Shooter,Xbox,2008,8.69
+PUBG,Shooter,PC,2013,6.08
+PUBG,Shooter,Nintendo Switch,2019,3.48
+PUBG,Shooter,PlayStation,2021,4.57
+PUBG,Shooter,Mobile,2006,4.71
+PUBG,Sports,PlayStation,2009,6.19
+PUBG,Sports,Xbox,2022,4.58
+PUBG,Sports,Nintendo Switch,2004,8.69
+PUBG,Sports,Mobile,2021,2.07
+PUBG,Sports,PC,2007,5.01
+PUBG,Survival,PC,2012,8.07
+PUBG,Survival,PlayStation,2017,6.52
+PUBG,Survival,Xbox,2021,7.35
+PUBG,Role-playing,Nintendo Switch,2004,5.24
+PUBG,Role-playing,PC,2019,4.91
+PUBG,Role-playing,Mobile,2002,3.37
+PUBG,Stealth,PC,2012,6.52
+PUBG,Stealth,Mobile,2016,3.58
+PUBG,Stealth,Xbox,2019,1.52
+PUBG,Stealth,PlayStation,2005,6.76
+Dark Souls III,Action,PC,2020,1.0
+Dark Souls III,Action,Xbox,2005,1.78
+Dark Souls III,Action,Mobile,2008,8.01
+Dark Souls III,Puzzle,Nintendo Switch,2016,1.14
+Dark Souls III,Puzzle,Mobile,2022,1.62
+Dark Souls III,Puzzle,Xbox,2002,5.94
+Dark Souls III,Puzzle,PC,2023,8.46
+Dark Souls III,Strategy,Xbox,2014,9.36
+Dark Souls III,Strategy,Mobile,2018,1.04
+Dark Souls III,Strategy,PC,2005,4.66
+Dark Souls III,Strategy,Nintendo Switch,2003,6.02
+Dark Souls III,Sports,Xbox,2017,8.31
+Dark Souls III,Sports,PC,2018,3.25
+Dark Souls III,Sports,Mobile,2014,9.68
+Dark Souls III,Sports,PlayStation,2018,5.35
+Dark Souls III,Racing,Xbox,2014,9.06
+Dark Souls III,Racing,Nintendo Switch,2000,5.33
+Dark Souls III,Racing,Mobile,2008,1.61
+Dark Souls III,Fighting,PlayStation,2011,5.64
+Dark Souls III,Fighting,Xbox,2000,7.3
+Dark Souls III,Fighting,Mobile,2008,3.23
+Dark Souls III,Platformer,Nintendo Switch,2002,5.99
+Dark Souls III,Platformer,Xbox,2005,5.28
+Dark Souls III,Shooter,PlayStation,2015,7.63
+Dark Souls III,Shooter,Xbox,2007,7.61
+Dark Souls III,Shooter,PC,2008,2.86
+Dark Souls III,Shooter,Nintendo Switch,2006,8.51
+Dark Souls III,Stealth,PlayStation,2021,9.59
+Dark Souls III,Stealth,PC,2015,6.52
+Dark Souls III,Stealth,Nintendo Switch,2017,9.61
+Dark Souls III,Stealth,Xbox,2015,4.34
+Dark Souls III,Role-playing,Nintendo Switch,2016,3.52
+Dark Souls III,Role-playing,Xbox,2007,7.74
+Dark Souls III,Role-playing,PlayStation,2004,1.49
+Dark Souls III,Role-playing,PC,2013,5.3
+Dark Souls III,Adventure,Mobile,2012,8.73
+Dark Souls III,Adventure,Xbox,2005,5.11
+Fall Guys: Ultimate Knockout,Survival,Xbox,2019,8.75
+Fall Guys: Ultimate Knockout,Survival,Mobile,2005,5.93
+Fall Guys: Ultimate Knockout,Sports,Xbox,2010,4.29
+Fall Guys: Ultimate Knockout,Sports,Nintendo Switch,2015,4.81
+Fall Guys: Ultimate Knockout,Sports,Mobile,2013,7.3
+Fall Guys: Ultimate Knockout,Simulation,Xbox,2005,6.14
+Fall Guys: Ultimate Knockout,Simulation,Nintendo Switch,2018,7.17
+Fall Guys: Ultimate Knockout,Simulation,PlayStation,2003,7.48
+Fall Guys: Ultimate Knockout,Simulation,Mobile,2007,5.99
+Fall Guys: Ultimate Knockout,Role-playing,PlayStation,2000,2.59
+Fall Guys: Ultimate Knockout,Role-playing,Mobile,2015,2.21
+Fall Guys: Ultimate Knockout,Role-playing,Xbox,2020,5.65
+Fall Guys: Ultimate Knockout,Role-playing,PC,2023,3.84
+Fall Guys: Ultimate Knockout,Role-playing,Nintendo Switch,2015,3.7
+Fall Guys: Ultimate Knockout,Action,Nintendo Switch,2022,2.47
+Fall Guys: Ultimate Knockout,Action,PC,2006,8.32
+Fall Guys: Ultimate Knockout,Stealth,PC,2011,4.24
+Fall Guys: Ultimate Knockout,Stealth,Nintendo Switch,2017,9.38
+Fall Guys: Ultimate Knockout,Stealth,Xbox,2008,4.09
+Fall Guys: Ultimate Knockout,Stealth,PlayStation,2013,2.09
+Fall Guys: Ultimate Knockout,Stealth,Mobile,2021,9.66
+Fall Guys: Ultimate Knockout,Puzzle,Mobile,2011,3.92
+Fall Guys: Ultimate Knockout,Puzzle,PlayStation,2016,5.38
+Fall Guys: Ultimate Knockout,Puzzle,Nintendo Switch,2023,5.02
+Fall Guys: Ultimate Knockout,Platformer,Nintendo Switch,2014,6.68
+Fall Guys: Ultimate Knockout,Platformer,Xbox,2004,8.81
+Fortnite,Fighting,Xbox,2011,7.72
+Fortnite,Fighting,Nintendo Switch,2016,9.68
+Fortnite,Fighting,PlayStation,2013,2.5
+Fortnite,Fighting,Mobile,2000,2.12
+Fortnite,Role-playing,Xbox,2005,4.57
+Fortnite,Role-playing,PC,2003,1.57
+Fortnite,Role-playing,Nintendo Switch,2015,5.93
+Fortnite,Shooter,Nintendo Switch,2003,3.36
+Fortnite,Shooter,PC,2004,1.76
+Fortnite,Strategy,Xbox,2020,2.14
+Fortnite,Strategy,PlayStation,2016,8.54
+Fortnite,Strategy,PC,2000,1.32
+Fortnite,Strategy,Nintendo Switch,2011,8.73
+Fortnite,Strategy,Mobile,2010,8.77
+Fortnite,Stealth,Mobile,2022,5.85
+Fortnite,Stealth,Xbox,2018,6.37
+Fortnite,Stealth,Nintendo Switch,2020,7.73
+Fortnite,Stealth,PlayStation,2018,4.91
+Fortnite,Stealth,PC,2020,6.75
+Fortnite,Survival,Xbox,2002,4.97
+Fortnite,Survival,Nintendo Switch,2011,4.71
+Fortnite,Survival,Mobile,2004,3.73
+Fortnite,Survival,PC,2000,5.7
+Fortnite,Adventure,Xbox,2017,1.07
+Fortnite,Adventure,Mobile,2015,9.51
+Fortnite,Adventure,PlayStation,2015,3.69
+Fortnite,Action,Xbox,2013,8.93
+Fortnite,Action,PlayStation,2013,4.55
+Fortnite,Action,PC,2005,7.43
+Fortnite,Action,Nintendo Switch,2020,4.5
+Fortnite,Action,Mobile,2012,2.98
+Fortnite,Simulation,Nintendo Switch,2016,7.87
+Fortnite,Simulation,PlayStation,2019,8.26
+Fortnite,Horror,Xbox,2002,2.64
+Fortnite,Horror,Mobile,2009,1.99
+Fortnite,Horror,PlayStation,2014,6.55
+Fortnite,Horror,PC,2008,7.3
+Fortnite,Platformer,PlayStation,2017,1.2
+Fortnite,Platformer,Xbox,2003,3.54
+Fortnite,Platformer,PC,2004,7.43
+Fortnite,Platformer,Nintendo Switch,2023,1.07
+Fortnite,Platformer,Mobile,2002,2.35
+Fortnite,Puzzle,PlayStation,2011,5.17
+Fortnite,Puzzle,Xbox,2001,3.97
+Fortnite,Puzzle,Mobile,2004,1.5
+Fortnite,Puzzle,Nintendo Switch,2012,1.64
+Fortnite,Puzzle,PC,2015,2.63
+Fortnite,Racing,Nintendo Switch,2012,7.93
+Fortnite,Racing,PC,2014,3.22
+Fortnite,Racing,Mobile,2001,2.79
+Fortnite,Racing,Xbox,2023,7.93
+Horizon Zero Dawn,Strategy,Xbox,2003,3.12
+Horizon Zero Dawn,Strategy,PlayStation,2013,3.92
+Horizon Zero Dawn,Strategy,Nintendo Switch,2005,8.14
+Horizon Zero Dawn,Strategy,PC,2018,2.08
+Horizon Zero Dawn,Strategy,Mobile,2007,1.08
+Horizon Zero Dawn,Puzzle,Mobile,2022,6.36
+Horizon Zero Dawn,Puzzle,Nintendo Switch,2011,7.93
+Horizon Zero Dawn,Simulation,PlayStation,2021,6.56
+Horizon Zero Dawn,Simulation,Nintendo Switch,2020,1.54
+Horizon Zero Dawn,Simulation,PC,2011,6.79
+Horizon Zero Dawn,Shooter,PlayStation,2007,3.85
+Horizon Zero Dawn,Shooter,Nintendo Switch,2017,8.09
+Horizon Zero Dawn,Racing,Nintendo Switch,2011,7.51
+Horizon Zero Dawn,Racing,PlayStation,2008,9.08
+Horizon Zero Dawn,Racing,PC,2015,7.35
+Horizon Zero Dawn,Racing,Mobile,2017,3.65
+Horizon Zero Dawn,Role-playing,PlayStation,2023,5.21
+Horizon Zero Dawn,Role-playing,Mobile,2019,9.22
+Horizon Zero Dawn,Role-playing,Xbox,2017,2.44
+Horizon Zero Dawn,Role-playing,Nintendo Switch,2016,2.39
+Horizon Zero Dawn,Role-playing,PC,2009,8.37
+Horizon Zero Dawn,Horror,Nintendo Switch,2023,2.67
+Horizon Zero Dawn,Horror,PC,2000,6.57
+Horizon Zero Dawn,Horror,Xbox,2011,7.98
+Horizon Zero Dawn,Horror,PlayStation,2007,3.88
+Horizon Zero Dawn,Sports,Mobile,2006,5.71
+Horizon Zero Dawn,Sports,Nintendo Switch,2015,7.88
+Horizon Zero Dawn,Platformer,Mobile,2013,6.76
+Horizon Zero Dawn,Platformer,Xbox,2003,1.87
+Horizon Zero Dawn,Platformer,PlayStation,2021,1.6
+Horizon Zero Dawn,Action,PlayStation,2003,5.36
+Horizon Zero Dawn,Action,PC,2003,1.29
+Horizon Zero Dawn,Action,Nintendo Switch,2020,8.52
+Horizon Zero Dawn,Stealth,Mobile,2019,7.45
+Horizon Zero Dawn,Stealth,Xbox,2000,9.36
+Horizon Zero Dawn,Stealth,PC,2006,6.9
+Horizon Zero Dawn,Stealth,PlayStation,2002,5.21
+Horizon Zero Dawn,Stealth,Nintendo Switch,2020,1.55
+Horizon Zero Dawn,Adventure,Xbox,2023,1.63
+Horizon Zero Dawn,Adventure,PC,2009,1.7
+Horizon Zero Dawn,Adventure,Mobile,2006,9.64
+Horizon Zero Dawn,Adventure,PlayStation,2003,1.91
+Horizon Zero Dawn,Adventure,Nintendo Switch,2007,5.78
+Rocket League,Puzzle,Nintendo Switch,2005,5.94
+Rocket League,Puzzle,Mobile,2016,4.03
+Rocket League,Puzzle,PC,2005,5.8
+Rocket League,Puzzle,Xbox,2019,4.98
+Rocket League,Sports,Xbox,2020,4.87
+Rocket League,Sports,Mobile,2023,3.91
+Rocket League,Sports,PlayStation,2007,6.06
+Rocket League,Sports,Nintendo Switch,2006,4.37
+Rocket League,Strategy,Xbox,2000,7.53
+Rocket League,Strategy,Nintendo Switch,2009,6.36
+Rocket League,Strategy,PlayStation,2016,2.21
+Rocket League,Strategy,Mobile,2009,1.06
+Rocket League,Platformer,PlayStation,2022,8.39
+Rocket League,Platformer,Xbox,2017,5.6
+Rocket League,Platformer,PC,2018,9.32
+Rocket League,Stealth,PC,2011,2.4
+Rocket League,Stealth,Mobile,2008,4.3
+Rocket League,Stealth,PlayStation,2018,3.25
+Rocket League,Horror,Xbox,2018,9.25
+Rocket League,Horror,PC,2023,1.69
+Rocket League,Horror,Mobile,2010,8.13
+Rocket League,Horror,PlayStation,2005,5.39
+Rocket League,Shooter,Mobile,2001,7.57
+Rocket League,Shooter,Xbox,2018,4.43
+Rocket League,Role-playing,Xbox,2013,4.74
+Rocket League,Role-playing,Mobile,2003,8.82
+Rocket League,Action,Mobile,2020,4.44
+Rocket League,Action,PC,2009,5.71
+Rocket League,Action,Xbox,2010,5.85
+Dota 2,Role-playing,PlayStation,2009,8.07
+Dota 2,Role-playing,Nintendo Switch,2004,2.19
+Dota 2,Sports,Nintendo Switch,2017,4.59
+Dota 2,Sports,PC,2002,4.58
+Dota 2,Survival,PlayStation,2012,6.86
+Dota 2,Survival,Mobile,2006,6.04
+Dota 2,Survival,Nintendo Switch,2023,5.71
+Dota 2,Survival,PC,2007,1.64
+Dota 2,Survival,Xbox,2013,3.91
+Dota 2,Puzzle,PC,2013,4.28
+Dota 2,Puzzle,Nintendo Switch,2006,3.88
+Dota 2,Horror,Xbox,2011,6.54
+Dota 2,Horror,PlayStation,2014,6.6
+Dota 2,Action,PC,2023,8.67
+Dota 2,Action,PlayStation,2003,7.65
+Dota 2,Action,Mobile,2007,9.53
+Dota 2,Action,Nintendo Switch,2004,8.81
+Dota 2,Action,Xbox,2009,1.12
+Dota 2,Shooter,Xbox,2015,1.2
+Dota 2,Shooter,Nintendo Switch,2006,7.65
+Dota 2,Strategy,PlayStation,2015,6.6
+Dota 2,Strategy,Xbox,2004,7.25
+Dota 2,Strategy,Nintendo Switch,2021,1.17
+Dota 2,Racing,Xbox,2001,3.55
+Dota 2,Racing,PlayStation,2022,6.56
+Borderlands 3,Simulation,PC,2020,4.47
+Borderlands 3,Simulation,Xbox,2012,5.57
+Borderlands 3,Strategy,Xbox,2019,5.78
+Borderlands 3,Strategy,Nintendo Switch,2005,2.79
+Borderlands 3,Action,Mobile,2010,5.4
+Borderlands 3,Action,PC,2023,2.41
+Borderlands 3,Action,Nintendo Switch,2011,7.15
+Borderlands 3,Action,Xbox,2011,6.62
+Borderlands 3,Action,PlayStation,2007,9.95
+Borderlands 3,Adventure,PC,2017,9.53
+Borderlands 3,Adventure,Xbox,2007,2.36
+Borderlands 3,Adventure,PlayStation,2012,6.91
+Borderlands 3,Adventure,Mobile,2002,7.56
+Borderlands 3,Shooter,Nintendo Switch,2004,4.83
+Borderlands 3,Shooter,PlayStation,2009,9.18
+Borderlands 3,Shooter,Xbox,2010,5.04
+Borderlands 3,Racing,PlayStation,2017,7.15
+Borderlands 3,Racing,Mobile,2006,8.75
+Borderlands 3,Racing,Xbox,2009,7.19
+Borderlands 3,Role-playing,Nintendo Switch,2018,9.24
+Borderlands 3,Role-playing,PlayStation,2010,1.61
+Borderlands 3,Role-playing,Xbox,2017,9.53
+Borderlands 3,Stealth,PlayStation,2004,7.54
+Borderlands 3,Stealth,Xbox,2010,8.91
+NBA 2K21,Shooter,Mobile,2007,7.18
+NBA 2K21,Shooter,PlayStation,2011,1.71
+NBA 2K21,Shooter,Xbox,2015,2.21
+NBA 2K21,Shooter,PC,2019,5.21
+NBA 2K21,Racing,PlayStation,2004,2.47
+NBA 2K21,Racing,Nintendo Switch,2007,1.29
+NBA 2K21,Racing,Mobile,2000,9.32
+NBA 2K21,Racing,Xbox,2013,3.0
+NBA 2K21,Simulation,PlayStation,2014,8.8
+NBA 2K21,Simulation,PC,2015,7.18
+NBA 2K21,Simulation,Nintendo Switch,2014,8.98
+NBA 2K21,Strategy,Nintendo Switch,2012,6.5
+NBA 2K21,Strategy,PC,2023,6.14
+NBA 2K21,Strategy,Xbox,2017,5.72
+NBA 2K21,Strategy,PlayStation,2022,8.07
+NBA 2K21,Strategy,Mobile,2016,1.98
+NBA 2K21,Fighting,PC,2017,4.48
+NBA 2K21,Fighting,PlayStation,2020,9.65
+NBA 2K21,Fighting,Xbox,2006,3.62
+NBA 2K21,Fighting,Nintendo Switch,2012,8.95
+NBA 2K21,Fighting,Mobile,2009,5.15
+NBA 2K21,Horror,Xbox,2020,5.06
+NBA 2K21,Horror,PC,2023,5.5
+NBA 2K21,Horror,Mobile,2005,8.0
+NBA 2K21,Horror,Nintendo Switch,2022,5.91
+NBA 2K21,Horror,PlayStation,2012,4.72
+NBA 2K21,Puzzle,PC,2002,3.25
+NBA 2K21,Puzzle,PlayStation,2022,6.83
+NBA 2K21,Puzzle,Nintendo Switch,2022,8.16
+NBA 2K21,Puzzle,Mobile,2022,7.59
+NBA 2K21,Puzzle,Xbox,2002,2.03
+NBA 2K21,Action,Xbox,2012,5.95
+NBA 2K21,Action,PC,2001,7.91
+NBA 2K21,Action,Mobile,2010,6.08
+NBA 2K21,Action,PlayStation,2021,8.76
+NBA 2K21,Action,Nintendo Switch,2005,8.81
+NBA 2K21,Adventure,PC,2009,7.56
+NBA 2K21,Adventure,Nintendo Switch,2014,3.6
+NBA 2K21,Adventure,PlayStation,2005,2.06
+NBA 2K21,Role-playing,PlayStation,2008,1.11
+NBA 2K21,Role-playing,PC,2015,8.69
+NBA 2K21,Role-playing,Xbox,2017,8.26
+NBA 2K21,Platformer,PlayStation,2013,4.97
+NBA 2K21,Platformer,Mobile,2019,6.39
+NBA 2K21,Platformer,Xbox,2007,8.93
+NBA 2K21,Platformer,Nintendo Switch,2008,6.57
+NBA 2K21,Platformer,PC,2017,8.37
+Far Cry 5,Action,Xbox,2013,9.93
+Far Cry 5,Action,PC,2005,7.04
+Far Cry 5,Action,Nintendo Switch,2019,6.94
+Far Cry 5,Action,Mobile,2022,6.35
+Far Cry 5,Horror,Nintendo Switch,2002,7.91
+Far Cry 5,Horror,Xbox,2010,4.31
+Far Cry 5,Horror,PC,2012,8.37
+Far Cry 5,Fighting,Mobile,2003,7.24
+Far Cry 5,Fighting,PC,2008,3.96
+Far Cry 5,Fighting,PlayStation,2013,5.72
+Far Cry 5,Fighting,Xbox,2022,2.88
+Far Cry 5,Fighting,Nintendo Switch,2001,1.98
+Far Cry 5,Platformer,Nintendo Switch,2013,6.47
+Far Cry 5,Platformer,Xbox,2010,3.33
+Far Cry 5,Role-playing,PlayStation,2015,8.26
+Far Cry 5,Role-playing,Nintendo Switch,2019,3.09
+Far Cry 5,Role-playing,Xbox,2009,9.8
+Far Cry 5,Role-playing,Mobile,2000,2.06
+Far Cry 5,Strategy,PC,2001,4.0
+Far Cry 5,Strategy,PlayStation,2017,8.25
+Far Cry 5,Strategy,Xbox,2006,1.1
+Far Cry 5,Strategy,Nintendo Switch,2006,7.2
+Far Cry 5,Strategy,Mobile,2008,8.1
+Far Cry 5,Survival,Xbox,2021,4.0
+Far Cry 5,Survival,Mobile,2012,7.51
+Far Cry 5,Survival,PC,2019,9.63
+Far Cry 5,Survival,Nintendo Switch,2005,2.74
+Far Cry 5,Shooter,Nintendo Switch,2015,2.4
+Far Cry 5,Shooter,Mobile,2014,9.02
+Far Cry 5,Shooter,PC,2017,9.05
+Far Cry 5,Shooter,Xbox,2014,8.05
+Far Cry 5,Sports,PC,2006,6.19
+Far Cry 5,Sports,Xbox,2010,8.19
+Far Cry 5,Sports,Nintendo Switch,2011,1.6
+Far Cry 5,Sports,PlayStation,2004,3.52
+Far Cry 5,Sports,Mobile,2000,4.05
+Dying Light,Strategy,Xbox,2002,5.47
+Dying Light,Strategy,Nintendo Switch,2007,4.34
+Dying Light,Sports,PlayStation,2011,8.06
+Dying Light,Sports,Xbox,2006,9.21
+Dying Light,Sports,PC,2014,5.55
+Dying Light,Sports,Nintendo Switch,2015,9.14
+Dying Light,Horror,PlayStation,2023,8.86
+Dying Light,Horror,Xbox,2009,7.97
+Dying Light,Horror,Mobile,2004,7.92
+Dying Light,Stealth,Mobile,2006,7.51
+Dying Light,Stealth,PlayStation,2014,4.48
+Dying Light,Platformer,PC,2001,7.18
+Dying Light,Platformer,Xbox,2019,8.84
+Dying Light,Shooter,Nintendo Switch,2000,6.19
+Dying Light,Shooter,PC,2009,6.74
+Dying Light,Shooter,Mobile,2006,3.88
+Dying Light,Shooter,PlayStation,2006,3.58
+Dying Light,Survival,Nintendo Switch,2005,3.46
+Dying Light,Survival,PC,2000,9.62
+Dying Light,Survival,PlayStation,2017,5.62
+Dying Light,Survival,Mobile,2006,5.88
+Dying Light,Racing,Xbox,2018,3.2
+Dying Light,Racing,PlayStation,2002,3.8
+Dying Light,Racing,Mobile,2010,5.86
+Dying Light,Racing,Nintendo Switch,2001,2.17
+Dying Light,Action,PC,2013,4.52
+Dying Light,Action,Mobile,2022,6.36
+Dying Light,Action,PlayStation,2018,6.66
+Dying Light,Action,Nintendo Switch,2022,7.29
+Dying Light,Action,Xbox,2019,4.2
+Dying Light,Simulation,PlayStation,2002,8.31
+Dying Light,Simulation,PC,2022,5.21
+Dying Light,Simulation,Mobile,2014,3.79
+Dying Light,Simulation,Nintendo Switch,2020,7.38
+Dying Light,Fighting,Nintendo Switch,2011,4.52
+Dying Light,Fighting,PlayStation,2022,9.25
+Dying Light,Fighting,PC,2010,8.09
+Dying Light,Fighting,Xbox,2010,5.08
+Dying Light,Fighting,Mobile,2000,1.59
+Forza Horizon 4,Role-playing,Nintendo Switch,2010,6.0
+Forza Horizon 4,Role-playing,PC,2002,8.12
+Forza Horizon 4,Simulation,Nintendo Switch,2015,4.45
+Forza Horizon 4,Simulation,Mobile,2010,2.87
+Forza Horizon 4,Simulation,PC,2022,6.31
+Forza Horizon 4,Simulation,Xbox,2013,6.1
+Forza Horizon 4,Simulation,PlayStation,2010,5.9
+Forza Horizon 4,Fighting,PlayStation,2022,6.16
+Forza Horizon 4,Fighting,PC,2015,2.03
+Forza Horizon 4,Fighting,Xbox,2019,5.16
+Forza Horizon 4,Horror,Nintendo Switch,2009,9.59
+Forza Horizon 4,Horror,PlayStation,2002,6.38
+Forza Horizon 4,Racing,Xbox,2006,8.35
+Forza Horizon 4,Racing,Nintendo Switch,2018,9.12
+Forza Horizon 4,Racing,Mobile,2020,8.28
+Forza Horizon 4,Racing,PC,2004,6.94
+Forza Horizon 4,Racing,PlayStation,2014,5.78
+Forza Horizon 4,Platformer,Mobile,2009,6.13
+Forza Horizon 4,Platformer,Nintendo Switch,2021,3.74
+Forza Horizon 4,Platformer,PC,2013,7.45
+Forza Horizon 4,Platformer,Xbox,2011,9.9
+Forza Horizon 4,Platformer,PlayStation,2018,1.07
+Forza Horizon 4,Strategy,PlayStation,2000,7.32
+Forza Horizon 4,Strategy,Xbox,2011,1.99
+Forza Horizon 4,Strategy,PC,2009,8.78
+Forza Horizon 4,Strategy,Mobile,2007,4.88
+Forza Horizon 4,Strategy,Nintendo Switch,2018,4.54
+Forza Horizon 4,Stealth,Nintendo Switch,2017,2.9
+Forza Horizon 4,Stealth,Mobile,2005,5.27
+Forza Horizon 4,Stealth,PlayStation,2006,5.99
+Forza Horizon 4,Stealth,Xbox,2011,8.55
+Madden NFL 21,Racing,Nintendo Switch,2014,9.03
+Madden NFL 21,Racing,PlayStation,2022,6.43
+Madden NFL 21,Racing,PC,2013,6.6
+Madden NFL 21,Racing,Xbox,2014,5.58
+Madden NFL 21,Racing,Mobile,2017,8.37
+Madden NFL 21,Strategy,Xbox,2018,5.48
+Madden NFL 21,Strategy,PlayStation,2023,3.13
+Madden NFL 21,Strategy,PC,2016,3.42
+Madden NFL 21,Strategy,Nintendo Switch,2017,6.18
+Madden NFL 21,Strategy,Mobile,2001,9.79
+Madden NFL 21,Horror,Xbox,2004,7.56
+Madden NFL 21,Horror,PC,2016,9.84
+Madden NFL 21,Horror,Mobile,2008,5.18
+Madden NFL 21,Horror,PlayStation,2002,5.7
+Madden NFL 21,Horror,Nintendo Switch,2019,1.8
+Madden NFL 21,Survival,PC,2017,8.0
+Madden NFL 21,Survival,Xbox,2015,5.08
+Madden NFL 21,Survival,Nintendo Switch,2015,6.16
+Madden NFL 21,Survival,Mobile,2010,4.78
+Madden NFL 21,Survival,PlayStation,2009,3.6
+Madden NFL 21,Action,Mobile,2023,8.06
+Madden NFL 21,Action,Xbox,2008,1.55
+Madden NFL 21,Adventure,Mobile,2023,6.61
+Madden NFL 21,Adventure,PlayStation,2009,5.36
+Madden NFL 21,Adventure,Xbox,2004,5.55
+Madden NFL 21,Adventure,PC,2008,3.27
+Madden NFL 21,Adventure,Nintendo Switch,2019,3.53
+Madden NFL 21,Stealth,PC,2018,7.64
+Madden NFL 21,Stealth,Mobile,2021,5.02
+Madden NFL 21,Stealth,Xbox,2005,3.35
+Madden NFL 21,Stealth,Nintendo Switch,2022,3.12
+Madden NFL 21,Sports,Mobile,2002,9.7
+Madden NFL 21,Sports,PC,2019,9.4
+Madden NFL 21,Sports,PlayStation,2004,8.53
+Madden NFL 21,Role-playing,Nintendo Switch,2006,6.19
+Madden NFL 21,Role-playing,PlayStation,2011,1.49
+Madden NFL 21,Role-playing,Xbox,2008,7.79
+Madden NFL 21,Role-playing,Mobile,2003,1.47
+Madden NFL 21,Role-playing,PC,2014,4.58
+Monster Hunter: World,Simulation,PC,2016,7.14
+Monster Hunter: World,Simulation,Xbox,2001,1.88
+Monster Hunter: World,Simulation,PlayStation,2017,6.73
+Monster Hunter: World,Simulation,Nintendo Switch,2013,6.49
+Monster Hunter: World,Simulation,Mobile,2020,8.72
+Monster Hunter: World,Survival,Xbox,2020,6.25
+Monster Hunter: World,Survival,Mobile,2014,7.95
+Monster Hunter: World,Survival,PC,2023,3.17
+Monster Hunter: World,Survival,PlayStation,2021,6.29
+Monster Hunter: World,Sports,Mobile,2022,9.93
+Monster Hunter: World,Sports,Xbox,2010,5.92
+Monster Hunter: World,Sports,Nintendo Switch,2021,1.08
+Monster Hunter: World,Puzzle,PC,2003,5.72
+Monster Hunter: World,Puzzle,Nintendo Switch,2021,5.01
+Monster Hunter: World,Shooter,Xbox,2001,1.21
+Monster Hunter: World,Shooter,Mobile,2002,1.51
+Monster Hunter: World,Shooter,PC,2019,6.9
+Monster Hunter: World,Stealth,Mobile,2003,1.78
+Monster Hunter: World,Stealth,PC,2019,2.17
+Monster Hunter: World,Stealth,Xbox,2021,7.87
+Monster Hunter: World,Platformer,PC,2009,5.2
+Monster Hunter: World,Platformer,PlayStation,2002,6.74
+Monster Hunter: World,Platformer,Nintendo Switch,2008,7.92
+Monster Hunter: World,Horror,Xbox,2001,4.44
+Monster Hunter: World,Horror,PlayStation,2010,9.95
+Monster Hunter: World,Horror,PC,2008,9.59
+Monster Hunter: World,Horror,Nintendo Switch,2008,2.6
+Monster Hunter: World,Adventure,Nintendo Switch,2019,4.53
+Monster Hunter: World,Adventure,PlayStation,2020,5.42
+Monster Hunter: World,Racing,Mobile,2019,6.78
+Monster Hunter: World,Racing,Nintendo Switch,2014,7.43
+Monster Hunter: World,Racing,PC,2003,1.31
+The Legend of Zelda: Breath of the Wild,Stealth,PC,2008,2.36
+The Legend of Zelda: Breath of the Wild,Stealth,Nintendo Switch,2010,9.13
+The Legend of Zelda: Breath of the Wild,Survival,Mobile,2015,4.92
+The Legend of Zelda: Breath of the Wild,Survival,Nintendo Switch,2023,8.02
+The Legend of Zelda: Breath of the Wild,Racing,Mobile,2000,4.46
+The Legend of Zelda: Breath of the Wild,Racing,PlayStation,2022,8.35
+The Legend of Zelda: Breath of the Wild,Simulation,PC,2001,6.68
+The Legend of Zelda: Breath of the Wild,Simulation,Xbox,2020,1.82
+The Legend of Zelda: Breath of the Wild,Simulation,PlayStation,2017,8.67
+The Legend of Zelda: Breath of the Wild,Simulation,Nintendo Switch,2010,1.72
+The Legend of Zelda: Breath of the Wild,Simulation,Mobile,2014,7.84
+The Legend of Zelda: Breath of the Wild,Action,PlayStation,2012,6.94
+The Legend of Zelda: Breath of the Wild,Action,Mobile,2009,7.26
+The Legend of Zelda: Breath of the Wild,Action,Xbox,2003,6.67
+The Legend of Zelda: Breath of the Wild,Action,PC,2011,5.37
+The Legend of Zelda: Breath of the Wild,Strategy,PlayStation,2023,9.96
+The Legend of Zelda: Breath of the Wild,Strategy,Mobile,2007,5.4
+The Legend of Zelda: Breath of the Wild,Strategy,PC,2002,8.13
+The Legend of Zelda: Breath of the Wild,Strategy,Xbox,2020,3.77
+The Legend of Zelda: Breath of the Wild,Strategy,Nintendo Switch,2017,9.67
+The Legend of Zelda: Breath of the Wild,Horror,PC,2023,1.38
+The Legend of Zelda: Breath of the Wild,Horror,Mobile,2003,2.9
+The Legend of Zelda: Breath of the Wild,Horror,PlayStation,2020,7.0
+The Legend of Zelda: Breath of the Wild,Horror,Nintendo Switch,2014,9.45
+The Legend of Zelda: Breath of the Wild,Horror,Xbox,2017,2.34
+The Legend of Zelda: Breath of the Wild,Role-playing,PC,2004,5.4
+The Legend of Zelda: Breath of the Wild,Role-playing,Mobile,2000,5.24
+The Legend of Zelda: Breath of the Wild,Role-playing,Xbox,2019,1.41
+Halo Master Chief Collection,Strategy,Mobile,2010,8.3
+Halo Master Chief Collection,Strategy,PlayStation,2023,7.1
+Halo Master Chief Collection,Strategy,PC,2010,2.09
+Halo Master Chief Collection,Strategy,Xbox,2021,6.18
+Halo Master Chief Collection,Strategy,Nintendo Switch,2004,3.89
+Halo Master Chief Collection,Horror,PC,2002,2.09
+Halo Master Chief Collection,Horror,PlayStation,2004,7.81
+Halo Master Chief Collection,Horror,Nintendo Switch,2005,7.26
+Halo Master Chief Collection,Action,Nintendo Switch,2001,2.2
+Halo Master Chief Collection,Action,PlayStation,2020,6.51
+Halo Master Chief Collection,Action,Xbox,2005,1.14
+Halo Master Chief Collection,Fighting,PC,2022,6.86
+Halo Master Chief Collection,Fighting,Mobile,2009,4.74
+Halo Master Chief Collection,Fighting,Nintendo Switch,2015,7.22
+Halo Master Chief Collection,Fighting,Xbox,2006,2.29
+Halo Master Chief Collection,Fighting,PlayStation,2008,5.7
+Halo Master Chief Collection,Survival,PlayStation,2022,5.49
+Halo Master Chief Collection,Survival,Mobile,2002,6.64
+Halo Master Chief Collection,Survival,Xbox,2009,4.13
+Halo Master Chief Collection,Survival,PC,2000,6.01
+Halo Master Chief Collection,Survival,Nintendo Switch,2006,2.06
+Halo Master Chief Collection,Racing,Mobile,2017,5.56
+Halo Master Chief Collection,Racing,Xbox,2014,7.93
+Halo Master Chief Collection,Adventure,Xbox,2003,8.16
+Halo Master Chief Collection,Adventure,PC,2021,8.59
+Halo Master Chief Collection,Adventure,Nintendo Switch,2015,5.47
+Halo Master Chief Collection,Puzzle,PC,2011,3.56
+Halo Master Chief Collection,Puzzle,Mobile,2013,3.26
+Halo Master Chief Collection,Puzzle,Xbox,2019,8.24
+Halo Master Chief Collection,Sports,PC,2005,8.06
+Halo Master Chief Collection,Sports,Mobile,2015,5.63
+Halo Master Chief Collection,Sports,Xbox,2002,9.05
+Halo Master Chief Collection,Sports,Nintendo Switch,2023,5.0
+Halo Master Chief Collection,Sports,PlayStation,2018,3.93
+Halo Master Chief Collection,Simulation,Xbox,2010,3.05
+Halo Master Chief Collection,Simulation,PlayStation,2007,7.63
+Halo Master Chief Collection,Simulation,PC,2006,4.38
+Halo Master Chief Collection,Stealth,PC,2015,1.49
+Halo Master Chief Collection,Stealth,Nintendo Switch,2013,2.3
+Halo Master Chief Collection,Stealth,Xbox,2019,5.09
+Halo Master Chief Collection,Shooter,Xbox,2008,2.82
+Halo Master Chief Collection,Shooter,PlayStation,2004,1.29
+Halo Master Chief Collection,Shooter,Nintendo Switch,2018,1.54
+Halo Master Chief Collection,Shooter,PC,2004,2.0
+Halo Master Chief Collection,Shooter,Mobile,2014,5.12
+Halo Master Chief Collection,Platformer,Xbox,2019,2.41
+Halo Master Chief Collection,Platformer,PlayStation,2020,9.57
+Halo Master Chief Collection,Platformer,Nintendo Switch,2005,6.2
+Red Dead Redemption 2,Platformer,PlayStation,2018,9.51
+Red Dead Redemption 2,Platformer,Mobile,2018,9.08
+Red Dead Redemption 2,Platformer,Nintendo Switch,2013,9.81
+Red Dead Redemption 2,Platformer,Xbox,2001,9.91
+Red Dead Redemption 2,Platformer,PC,2023,7.91
+Red Dead Redemption 2,Puzzle,Nintendo Switch,2015,8.28
+Red Dead Redemption 2,Puzzle,Mobile,2022,8.38
+Red Dead Redemption 2,Adventure,Nintendo Switch,2006,2.19
+Red Dead Redemption 2,Adventure,PlayStation,2009,3.15
+Red Dead Redemption 2,Adventure,PC,2002,1.14
+Red Dead Redemption 2,Adventure,Xbox,2021,3.74
+Red Dead Redemption 2,Adventure,Mobile,2022,5.13
+Red Dead Redemption 2,Shooter,Nintendo Switch,2004,8.86
+Red Dead Redemption 2,Shooter,Mobile,2012,2.66
+Red Dead Redemption 2,Sports,Nintendo Switch,2012,9.03
+Red Dead Redemption 2,Sports,PC,2010,5.77
+Red Dead Redemption 2,Sports,Xbox,2009,4.83
+Red Dead Redemption 2,Sports,Mobile,2008,7.28
+Red Dead Redemption 2,Simulation,PC,2001,5.63
+Red Dead Redemption 2,Simulation,Xbox,2021,4.27
+Red Dead Redemption 2,Simulation,Nintendo Switch,2001,2.0
+Red Dead Redemption 2,Fighting,Nintendo Switch,2005,6.83
+Red Dead Redemption 2,Fighting,PC,2022,1.6
+Red Dead Redemption 2,Fighting,PlayStation,2022,7.95
+Red Dead Redemption 2,Fighting,Xbox,2004,9.82
+Red Dead Redemption 2,Racing,Mobile,2015,7.63
+Red Dead Redemption 2,Racing,PC,2018,8.83
+Red Dead Redemption 2,Racing,Xbox,2022,2.89
+Red Dead Redemption 2,Stealth,Xbox,2016,7.12
+Red Dead Redemption 2,Stealth,Mobile,2008,1.49
+Red Dead Redemption 2,Stealth,PlayStation,2011,4.1
+Red Dead Redemption 2,Role-playing,Mobile,2019,4.31
+Red Dead Redemption 2,Role-playing,PC,2021,9.5
+Red Dead Redemption 2,Role-playing,PlayStation,2002,2.69
+Red Dead Redemption 2,Role-playing,Xbox,2014,1.78
+Red Dead Redemption 2,Role-playing,Nintendo Switch,2012,9.07
+Red Dead Redemption 2,Horror,PC,2003,7.27
+Red Dead Redemption 2,Horror,Mobile,2015,2.35
+Red Dead Redemption 2,Horror,Nintendo Switch,2006,5.68
+Red Dead Redemption 2,Horror,PlayStation,2020,1.2
+Red Dead Redemption 2,Action,Mobile,2014,7.63
+Red Dead Redemption 2,Action,PlayStation,2000,3.62
+Red Dead Redemption 2,Action,Nintendo Switch,2002,1.2
+Red Dead Redemption 2,Action,Xbox,2007,8.51
+Red Dead Redemption 2,Action,PC,2016,6.8
+Minecraft,Stealth,PlayStation,2011,9.73
+Minecraft,Stealth,Xbox,2001,2.33
+Minecraft,Stealth,PC,2009,5.1
+Minecraft,Stealth,Mobile,2005,6.56
+Minecraft,Role-playing,Mobile,2005,8.55
+Minecraft,Role-playing,Xbox,2022,9.13
+Minecraft,Role-playing,PC,2004,2.45
+Minecraft,Strategy,PC,2018,2.14
+Minecraft,Strategy,Xbox,2008,4.32
+Minecraft,Survival,Mobile,2010,9.79
+Minecraft,Survival,PC,2004,4.35
+Minecraft,Survival,Xbox,2017,9.77
+Minecraft,Fighting,PC,2004,9.52
+Minecraft,Fighting,Mobile,2010,2.4
+Minecraft,Fighting,PlayStation,2023,5.91
+Minecraft,Fighting,Xbox,2016,3.98
+Minecraft,Simulation,Nintendo Switch,2018,7.55
+Minecraft,Simulation,Xbox,2014,4.04
+Minecraft,Simulation,Mobile,2003,7.58
+Minecraft,Simulation,PC,2001,2.25
+Minecraft,Sports,Xbox,2012,6.55
+Minecraft,Sports,PC,2007,5.01
+Minecraft,Puzzle,Xbox,2019,6.77
+Minecraft,Puzzle,PC,2018,5.73
+Minecraft,Horror,PlayStation,2021,7.04
+Minecraft,Horror,PC,2002,9.77
+Minecraft,Horror,Nintendo Switch,2012,2.75
+Minecraft,Horror,Mobile,2010,6.42
+Minecraft,Racing,Xbox,2004,7.44
+Minecraft,Racing,Nintendo Switch,2013,4.32
+Minecraft,Adventure,PC,2009,9.79
+Minecraft,Adventure,Xbox,2017,1.79
+Minecraft,Adventure,PlayStation,2023,8.98
+Minecraft,Adventure,Nintendo Switch,2023,9.92
+World of Warcraft,Simulation,PC,2005,6.0
+World of Warcraft,Simulation,Mobile,2022,6.11
+World of Warcraft,Simulation,PlayStation,2004,2.79
+World of Warcraft,Simulation,Xbox,2012,3.6
+World of Warcraft,Simulation,Nintendo Switch,2015,1.38
+World of Warcraft,Racing,Mobile,2007,1.24
+World of Warcraft,Racing,Xbox,2000,2.38
+World of Warcraft,Racing,PlayStation,2009,9.59
+World of Warcraft,Racing,Nintendo Switch,2020,5.25
+World of Warcraft,Horror,Nintendo Switch,2000,2.07
+World of Warcraft,Horror,PlayStation,2008,5.43
+World of Warcraft,Horror,Mobile,2002,6.38
+World of Warcraft,Horror,PC,2011,6.22
+World of Warcraft,Shooter,Xbox,2016,7.59
+World of Warcraft,Shooter,Nintendo Switch,2000,8.6
+World of Warcraft,Shooter,Mobile,2005,6.23
+World of Warcraft,Shooter,PC,2004,3.87
+World of Warcraft,Shooter,PlayStation,2022,2.22
+World of Warcraft,Strategy,PC,2013,6.72
+World of Warcraft,Strategy,Xbox,2011,1.44
+World of Warcraft,Strategy,PlayStation,2009,5.76
+World of Warcraft,Survival,Mobile,2020,2.65
+World of Warcraft,Survival,PlayStation,2003,6.38
+World of Warcraft,Adventure,Mobile,2021,8.19
+World of Warcraft,Adventure,Xbox,2008,7.16
+World of Warcraft,Adventure,PlayStation,2022,4.26
+World of Warcraft,Platformer,PlayStation,2011,8.0
+World of Warcraft,Platformer,PC,2013,4.06
+World of Warcraft,Platformer,Nintendo Switch,2005,1.92
+World of Warcraft,Platformer,Mobile,2004,5.53
+World of Warcraft,Stealth,Mobile,2014,9.24
+World of Warcraft,Stealth,PC,2003,8.36
+World of Warcraft,Stealth,PlayStation,2000,5.31
+World of Warcraft,Sports,Xbox,2005,7.38
+World of Warcraft,Sports,PlayStation,2000,7.69
+World of Warcraft,Sports,Nintendo Switch,2003,3.0
+World of Warcraft,Sports,Mobile,2022,2.28
+World of Warcraft,Puzzle,Xbox,2004,9.82
+World of Warcraft,Puzzle,PlayStation,2013,7.21
+World of Warcraft,Puzzle,PC,2003,1.7
+World of Warcraft,Fighting,Nintendo Switch,2021,5.62
+World of Warcraft,Fighting,PC,2001,5.22
+World of Warcraft,Fighting,Mobile,2008,1.39
+World of Warcraft,Fighting,Xbox,2009,7.0
+World of Warcraft,Fighting,PlayStation,2003,8.03
+World of Warcraft,Role-playing,Mobile,2021,4.16
+World of Warcraft,Role-playing,PlayStation,2002,2.31
+World of Warcraft,Role-playing,PC,2023,9.47
+World of Warcraft,Action,Xbox,2016,6.13
+World of Warcraft,Action,PlayStation,2003,8.37
+World of Warcraft,Action,Mobile,2000,5.75
+World of Warcraft,Action,PC,2022,2.72
+Destiny 2,Horror,Nintendo Switch,2011,9.82
+Destiny 2,Horror,PC,2013,2.93
+Destiny 2,Horror,Mobile,2007,4.66
+Destiny 2,Fighting,PC,2015,7.85
+Destiny 2,Fighting,Nintendo Switch,2022,3.59
+Destiny 2,Fighting,Mobile,2023,1.37
+Destiny 2,Fighting,Xbox,2010,5.44
+Destiny 2,Sports,Xbox,2007,5.98
+Destiny 2,Sports,Nintendo Switch,2009,9.85
+Destiny 2,Sports,Mobile,2013,2.7
+Destiny 2,Sports,PlayStation,2002,9.04
+Destiny 2,Sports,PC,2015,9.44
+Destiny 2,Action,PlayStation,2021,1.95
+Destiny 2,Action,PC,2014,5.7
+Destiny 2,Action,Xbox,2021,1.76
+Destiny 2,Action,Mobile,2004,4.55
+Destiny 2,Adventure,PlayStation,2011,9.77
+Destiny 2,Adventure,PC,2010,2.8
+Destiny 2,Puzzle,PC,2022,7.89
+Destiny 2,Puzzle,PlayStation,2018,3.45
+Destiny 2,Puzzle,Nintendo Switch,2020,9.48
+Destiny 2,Puzzle,Xbox,2011,5.28
+Destiny 2,Puzzle,Mobile,2019,9.54
+Destiny 2,Simulation,Mobile,2003,3.25
+Destiny 2,Simulation,Xbox,2015,3.08
+Destiny 2,Simulation,PC,2004,1.27
+Destiny 2,Simulation,PlayStation,2023,1.48
+Destiny 2,Simulation,Nintendo Switch,2002,5.48
+Destiny 2,Platformer,PlayStation,2019,7.11
+Destiny 2,Platformer,Nintendo Switch,2004,3.72
+Destiny 2,Role-playing,PC,2014,2.82
+Destiny 2,Role-playing,Nintendo Switch,2021,5.48
+Destiny 2,Racing,Mobile,2001,9.91
+Destiny 2,Racing,Xbox,2003,4.45
+Destiny 2,Racing,Nintendo Switch,2010,8.67
+Destiny 2,Racing,PC,2014,5.13
+GTA San Andreas,Horror,Nintendo Switch,2021,5.98
+GTA San Andreas,Horror,Mobile,2017,6.14
+GTA San Andreas,Horror,PC,2015,6.05
+GTA San Andreas,Horror,PlayStation,2005,5.56
+GTA San Andreas,Sports,Xbox,2009,3.88
+GTA San Andreas,Sports,Nintendo Switch,2000,6.31
+GTA San Andreas,Sports,Mobile,2004,8.52
+GTA San Andreas,Sports,PlayStation,2011,8.28
+GTA San Andreas,Sports,PC,2018,1.24
+GTA San Andreas,Strategy,Nintendo Switch,2011,4.7
+GTA San Andreas,Strategy,PC,2001,6.94
+GTA San Andreas,Strategy,PlayStation,2007,3.11
+GTA San Andreas,Strategy,Xbox,2009,6.33
+GTA San Andreas,Racing,Xbox,2010,2.53
+GTA San Andreas,Racing,PC,2017,3.93
+GTA San Andreas,Platformer,Nintendo Switch,2018,1.2
+GTA San Andreas,Platformer,Mobile,2010,4.4
+GTA San Andreas,Platformer,PlayStation,2012,3.9
+GTA San Andreas,Platformer,PC,2003,8.27
+GTA San Andreas,Platformer,Xbox,2003,7.21
+GTA San Andreas,Simulation,Xbox,2021,4.05
+GTA San Andreas,Simulation,Nintendo Switch,2019,3.69
+GTA San Andreas,Simulation,Mobile,2013,2.81
+GTA San Andreas,Shooter,Mobile,2009,3.38
+GTA San Andreas,Shooter,PlayStation,2009,9.96
+GTA San Andreas,Adventure,PlayStation,2008,1.6
+GTA San Andreas,Adventure,PC,2016,5.27
+GTA San Andreas,Adventure,Xbox,2006,4.12
+GTA San Andreas,Adventure,Nintendo Switch,2002,6.86
+GTA San Andreas,Adventure,Mobile,2009,5.54
+Watch Dogs: Legion,Shooter,Mobile,2006,6.94
+Watch Dogs: Legion,Shooter,PlayStation,2023,9.43
+Watch Dogs: Legion,Shooter,PC,2008,9.43
+Watch Dogs: Legion,Shooter,Xbox,2017,8.27
+Watch Dogs: Legion,Shooter,Nintendo Switch,2013,9.4
+Watch Dogs: Legion,Strategy,Mobile,2011,5.16
+Watch Dogs: Legion,Strategy,PlayStation,2007,2.35
+Watch Dogs: Legion,Sports,Nintendo Switch,2020,2.83
+Watch Dogs: Legion,Sports,Mobile,2013,3.4
+Watch Dogs: Legion,Sports,PlayStation,2009,6.81
+Watch Dogs: Legion,Sports,PC,2008,7.17
+Watch Dogs: Legion,Role-playing,Nintendo Switch,2004,2.73
+Watch Dogs: Legion,Role-playing,PlayStation,2007,8.17
+Watch Dogs: Legion,Role-playing,PC,2009,5.17
+Watch Dogs: Legion,Puzzle,Nintendo Switch,2004,1.26
+Watch Dogs: Legion,Puzzle,PC,2008,6.92
+Watch Dogs: Legion,Puzzle,Mobile,2005,6.79
+Watch Dogs: Legion,Puzzle,Xbox,2001,9.66
+Watch Dogs: Legion,Puzzle,PlayStation,2015,8.03
+Watch Dogs: Legion,Platformer,PC,2019,3.68
+Watch Dogs: Legion,Platformer,Xbox,2002,9.1
+Watch Dogs: Legion,Survival,Xbox,2003,6.13
+Watch Dogs: Legion,Survival,PC,2016,9.39
+Watch Dogs: Legion,Survival,PlayStation,2016,6.97
+Watch Dogs: Legion,Survival,Nintendo Switch,2018,9.54
+Watch Dogs: Legion,Survival,Mobile,2016,3.26
+Watch Dogs: Legion,Horror,PlayStation,2010,3.96
+Watch Dogs: Legion,Horror,PC,2018,7.63
+Watch Dogs: Legion,Racing,Nintendo Switch,2003,2.57
+Watch Dogs: Legion,Racing,PlayStation,2008,4.95
+Watch Dogs: Legion,Racing,PC,2008,8.76
+Watch Dogs: Legion,Fighting,Nintendo Switch,2022,9.53
+Watch Dogs: Legion,Fighting,Xbox,2010,5.91
+Assassins Creed Valhalla,Strategy,PlayStation,2017,4.46
+Assassins Creed Valhalla,Strategy,Xbox,2020,9.62
+Assassins Creed Valhalla,Puzzle,PC,2000,9.18
+Assassins Creed Valhalla,Puzzle,PlayStation,2012,9.34
+Assassins Creed Valhalla,Puzzle,Nintendo Switch,2008,3.7
+Assassins Creed Valhalla,Puzzle,Xbox,2007,3.67
+Assassins Creed Valhalla,Racing,Nintendo Switch,2013,8.1
+Assassins Creed Valhalla,Racing,Xbox,2008,8.79
+Assassins Creed Valhalla,Racing,Mobile,2015,5.24
+Assassins Creed Valhalla,Horror,Xbox,2016,1.6
+Assassins Creed Valhalla,Horror,Nintendo Switch,2013,6.41
+Assassins Creed Valhalla,Horror,PC,2017,7.63
+Assassins Creed Valhalla,Horror,Mobile,2014,7.25
+Assassins Creed Valhalla,Horror,PlayStation,2001,6.77
+Assassins Creed Valhalla,Role-playing,Nintendo Switch,2012,2.8
+Assassins Creed Valhalla,Role-playing,PlayStation,2009,3.82
+Assassins Creed Valhalla,Role-playing,PC,2002,2.0
+Assassins Creed Valhalla,Simulation,Mobile,2021,4.69
+Assassins Creed Valhalla,Simulation,PlayStation,2010,5.06
+Assassins Creed Valhalla,Simulation,Xbox,2023,2.2
+Assassins Creed Valhalla,Stealth,Mobile,2006,1.76
+Assassins Creed Valhalla,Stealth,Xbox,2011,2.64
+Assassins Creed Valhalla,Stealth,PlayStation,2012,9.49
+Assassins Creed Valhalla,Shooter,PC,2020,6.5
+Assassins Creed Valhalla,Shooter,Mobile,2007,9.15
+Assassins Creed Valhalla,Shooter,Xbox,2014,2.78
+Assassins Creed Valhalla,Platformer,PC,2013,6.4
+Assassins Creed Valhalla,Platformer,Nintendo Switch,2004,1.8
+Assassins Creed Valhalla,Platformer,Xbox,2011,2.53
+Assassins Creed Valhalla,Action,PC,2014,8.44
+Assassins Creed Valhalla,Action,Nintendo Switch,2015,2.07
+Assassins Creed Valhalla,Survival,PlayStation,2023,5.44
+Assassins Creed Valhalla,Survival,Xbox,2004,4.88
+Assassins Creed Valhalla,Survival,Mobile,2006,6.39
+PUBG: Battlegrounds,Racing,Xbox,2000,5.22
+PUBG: Battlegrounds,Racing,Nintendo Switch,2010,9.76
+PUBG: Battlegrounds,Racing,PC,2012,7.17
+PUBG: Battlegrounds,Survival,Nintendo Switch,2001,3.99
+PUBG: Battlegrounds,Survival,Xbox,2007,5.23
+PUBG: Battlegrounds,Survival,PC,2011,9.96
+PUBG: Battlegrounds,Survival,Mobile,2021,9.7
+PUBG: Battlegrounds,Survival,PlayStation,2019,7.38
+PUBG: Battlegrounds,Strategy,PC,2016,6.57
+PUBG: Battlegrounds,Strategy,Xbox,2009,9.79
+PUBG: Battlegrounds,Puzzle,PlayStation,2008,2.53
+PUBG: Battlegrounds,Puzzle,PC,2015,9.36
+PUBG: Battlegrounds,Puzzle,Xbox,2014,2.19
+PUBG: Battlegrounds,Puzzle,Nintendo Switch,2010,7.39
+PUBG: Battlegrounds,Shooter,PlayStation,2004,5.49
+PUBG: Battlegrounds,Shooter,Xbox,2008,7.72
+PUBG: Battlegrounds,Shooter,PC,2013,3.54
+PUBG: Battlegrounds,Shooter,Mobile,2008,6.51
+PUBG: Battlegrounds,Shooter,Nintendo Switch,2008,5.65
+PUBG: Battlegrounds,Horror,PlayStation,2017,8.67
+PUBG: Battlegrounds,Horror,Xbox,2021,6.72
+PUBG: Battlegrounds,Horror,Nintendo Switch,2014,1.48
+PUBG: Battlegrounds,Horror,Mobile,2004,1.49
+PUBG: Battlegrounds,Horror,PC,2005,1.32
+PUBG: Battlegrounds,Stealth,PlayStation,2015,1.37
+PUBG: Battlegrounds,Stealth,Nintendo Switch,2011,9.89
+PUBG: Battlegrounds,Stealth,Mobile,2017,5.36
+PUBG: Battlegrounds,Stealth,PC,2015,2.01
+PUBG: Battlegrounds,Simulation,PC,2006,8.8
+PUBG: Battlegrounds,Simulation,Xbox,2005,8.51
+PUBG: Battlegrounds,Simulation,Mobile,2023,5.57
+PUBG: Battlegrounds,Adventure,Mobile,2016,7.89
+PUBG: Battlegrounds,Adventure,PlayStation,2005,4.74
+PUBG: Battlegrounds,Adventure,Xbox,2002,3.21
+PUBG: Battlegrounds,Adventure,PC,2015,7.09
+PUBG: Battlegrounds,Action,PC,2012,4.36
+PUBG: Battlegrounds,Action,Xbox,2003,8.52
+PUBG: Battlegrounds,Action,Nintendo Switch,2004,1.26
+PUBG: Battlegrounds,Action,Mobile,2014,8.47
+PUBG: Battlegrounds,Sports,Nintendo Switch,2001,6.9
+PUBG: Battlegrounds,Sports,Xbox,2014,3.92
+PUBG: Battlegrounds,Sports,Mobile,2023,9.99
+PUBG: Battlegrounds,Sports,PC,2018,2.16
+PUBG: Battlegrounds,Sports,PlayStation,2001,8.21
+PUBG: Battlegrounds,Role-playing,Xbox,2017,9.56
+PUBG: Battlegrounds,Role-playing,PC,2012,1.83
+PUBG: Battlegrounds,Role-playing,Mobile,2008,2.6
+PUBG: Battlegrounds,Role-playing,Nintendo Switch,2012,1.8
+PUBG: Battlegrounds,Platformer,PlayStation,2009,6.82
+PUBG: Battlegrounds,Platformer,Nintendo Switch,2020,2.39
+PUBG: Battlegrounds,Platformer,Mobile,2009,5.41
+PUBG: Battlegrounds,Fighting,Xbox,2016,2.8
+PUBG: Battlegrounds,Fighting,PlayStation,2014,8.96
+PUBG: Battlegrounds,Fighting,Nintendo Switch,2015,3.41
+PUBG: Battlegrounds,Fighting,PC,2019,4.8
+PUBG: Battlegrounds,Fighting,Mobile,2013,8.29
+League of Legends: Wild Rift,Horror,Xbox,2013,1.71
+League of Legends: Wild Rift,Horror,Nintendo Switch,2015,3.7
+League of Legends: Wild Rift,Shooter,Xbox,2013,3.66
+League of Legends: Wild Rift,Shooter,PlayStation,2001,5.95
+League of Legends: Wild Rift,Shooter,Mobile,2001,5.62
+League of Legends: Wild Rift,Strategy,Nintendo Switch,2008,6.26
+League of Legends: Wild Rift,Strategy,PC,2016,1.15
+League of Legends: Wild Rift,Strategy,PlayStation,2023,6.95
+League of Legends: Wild Rift,Strategy,Xbox,2005,8.07
+League of Legends: Wild Rift,Strategy,Mobile,2012,1.41
+League of Legends: Wild Rift,Fighting,Xbox,2019,8.26
+League of Legends: Wild Rift,Fighting,Mobile,2010,9.69
+League of Legends: Wild Rift,Fighting,Nintendo Switch,2005,2.9
+League of Legends: Wild Rift,Fighting,PlayStation,2002,7.72
+League of Legends: Wild Rift,Fighting,PC,2019,3.33
+League of Legends: Wild Rift,Adventure,Nintendo Switch,2000,4.55
+League of Legends: Wild Rift,Adventure,PC,2000,2.54
+League of Legends: Wild Rift,Action,Nintendo Switch,2019,8.31
+League of Legends: Wild Rift,Action,Mobile,2019,4.24
+League of Legends: Wild Rift,Action,Xbox,2021,9.66
+League of Legends: Wild Rift,Action,PlayStation,2021,4.55
+League of Legends: Wild Rift,Action,PC,2009,1.79
+League of Legends: Wild Rift,Role-playing,PC,2000,7.26
+League of Legends: Wild Rift,Role-playing,PlayStation,2006,8.72
+League of Legends: Wild Rift,Role-playing,Mobile,2006,5.33
+League of Legends: Wild Rift,Puzzle,PlayStation,2017,2.72
+League of Legends: Wild Rift,Puzzle,Nintendo Switch,2009,7.92
+League of Legends: Wild Rift,Puzzle,Xbox,2004,5.26
+League of Legends: Wild Rift,Simulation,PC,2004,7.64
+League of Legends: Wild Rift,Simulation,PlayStation,2014,9.67
+League of Legends: Wild Rift,Stealth,PC,2009,6.12
+League of Legends: Wild Rift,Stealth,Nintendo Switch,2012,1.46
+League of Legends: Wild Rift,Stealth,Xbox,2000,1.92
+League of Legends: Wild Rift,Stealth,Mobile,2022,4.88
+League of Legends: Wild Rift,Stealth,PlayStation,2013,8.63
+League of Legends: Wild Rift,Racing,PC,2016,6.31
+League of Legends: Wild Rift,Racing,Nintendo Switch,2019,9.41
+League of Legends: Wild Rift,Racing,PlayStation,2015,3.08
+League of Legends: Wild Rift,Racing,Xbox,2001,5.75
+League of Legends: Wild Rift,Survival,Mobile,2020,4.75
+League of Legends: Wild Rift,Survival,Xbox,2015,2.05
+League of Legends: Wild Rift,Survival,Nintendo Switch,2019,9.44
+League of Legends: Wild Rift,Survival,PC,2011,5.03
+League of Legends: Wild Rift,Survival,PlayStation,2013,1.19
+Elden Ring,Survival,PlayStation,2021,6.87
+Elden Ring,Survival,Xbox,2011,8.16
+Elden Ring,Survival,Nintendo Switch,2005,6.59
+Elden Ring,Survival,Mobile,2009,7.21
+Elden Ring,Survival,PC,2002,7.0
+Elden Ring,Puzzle,PlayStation,2019,5.42
+Elden Ring,Puzzle,Mobile,2013,9.48
+Elden Ring,Puzzle,PC,2015,3.73
+Elden Ring,Simulation,Mobile,2011,8.92
+Elden Ring,Simulation,PC,2011,7.09
+Elden Ring,Simulation,Nintendo Switch,2005,8.44
+Elden Ring,Role-playing,PC,2013,2.02
+Elden Ring,Role-playing,Xbox,2007,2.08
+Elden Ring,Platformer,Nintendo Switch,2011,7.92
+Elden Ring,Platformer,Xbox,2017,3.4
+Elden Ring,Platformer,PlayStation,2004,8.67
+Elden Ring,Fighting,PC,2014,9.65
+Elden Ring,Fighting,Nintendo Switch,2003,9.76
+Elden Ring,Sports,Mobile,2016,1.95
+Elden Ring,Sports,PC,2020,2.06
+Elden Ring,Racing,Xbox,2009,7.37
+Elden Ring,Racing,PlayStation,2016,5.48
+Elden Ring,Racing,Mobile,2003,2.39
+Elden Ring,Strategy,Xbox,2014,9.72
+Elden Ring,Strategy,PlayStation,2000,3.21
+Elden Ring,Strategy,PC,2015,4.07
+Elden Ring,Strategy,Mobile,2016,2.54
+Elden Ring,Horror,Xbox,2004,7.77
+Elden Ring,Horror,Nintendo Switch,2016,4.79
+Elden Ring,Horror,PlayStation,2007,2.24
+Elden Ring,Horror,PC,2013,4.72
+Dark Souls III,Simulation,Xbox,2012,9.83
+Dark Souls III,Simulation,Mobile,2005,4.9
+Dark Souls III,Sports,PC,2013,4.61
+Dark Souls III,Sports,PlayStation,2021,7.3
+Dark Souls III,Sports,Xbox,2009,7.49
+Dark Souls III,Sports,Mobile,2010,9.17
+Dark Souls III,Sports,Nintendo Switch,2000,8.43
+Dark Souls III,Strategy,Nintendo Switch,2006,8.98
+Dark Souls III,Strategy,Mobile,2019,8.09
+Dark Souls III,Strategy,Xbox,2020,4.97
+Dark Souls III,Role-playing,Nintendo Switch,2001,5.83
+Dark Souls III,Role-playing,PlayStation,2012,7.52
+Dark Souls III,Role-playing,Mobile,2023,8.91
+Dark Souls III,Role-playing,PC,2016,9.92
+Dark Souls III,Action,PlayStation,2016,4.06
+Dark Souls III,Action,PC,2020,2.44
+Dark Souls III,Action,Xbox,2000,9.0
+Dark Souls III,Action,Mobile,2017,6.33
+Dark Souls III,Platformer,Xbox,2003,7.58
+Dark Souls III,Platformer,Nintendo Switch,2011,3.34
+Dark Souls III,Platformer,Mobile,2016,4.19
+Dark Souls III,Horror,PC,2009,6.15
+Dark Souls III,Horror,Nintendo Switch,2000,5.07
+Dark Souls III,Shooter,Mobile,2009,3.56
+Dark Souls III,Shooter,PlayStation,2022,6.15
+Dark Souls III,Shooter,Nintendo Switch,2004,7.42
+Dark Souls III,Stealth,PC,2018,2.73
+Dark Souls III,Stealth,Xbox,2011,5.08
+Dark Souls III,Stealth,Nintendo Switch,2004,7.4
+Dark Souls III,Racing,PC,2015,2.93
+Dark Souls III,Racing,Mobile,2002,4.32
+Dark Souls III,Racing,Nintendo Switch,2016,4.62
+Dark Souls III,Racing,PlayStation,2017,5.67
+Dark Souls III,Racing,Xbox,2012,8.84
+Dark Souls III,Survival,Nintendo Switch,2005,2.3
+Dark Souls III,Survival,Mobile,2004,5.36
+Dark Souls III,Survival,Xbox,2014,2.16
+Dark Souls III,Survival,PlayStation,2022,5.61
+Dark Souls III,Survival,PC,2016,2.06
