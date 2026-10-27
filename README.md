@@ -1,6 +1,6 @@
 # 🎮 Gaming Analytics Dashboard
 
-**MCA Data Science Mini-Project — Interactive Python Dashboard**
+**Interactive Python Dashboard**
 
 ---
 
